@@ -52,7 +52,7 @@
         "wk:page":"Gartland"
     },
     "wof:country":"NO",
-    "wof:geomhash":"be0fbd7b39f2b266f7f7c60b385fabba",
+    "wof:geomhash":"5e281e81a56e0a89c8ef3b90271aa244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     12.39399,
     64.53331999999999
 ],
-  "geometry": {"coordinates":[12.39399,64.53331999999999],"type":"Point"}
+  "geometry": {"coordinates":[12.39399,64.53332],"type":"Point"}
 }

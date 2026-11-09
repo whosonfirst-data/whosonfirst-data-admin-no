@@ -55,7 +55,7 @@
         "wk:page":"Tveide"
     },
     "wof:country":"NO",
-    "wof:geomhash":"e20ab2d6ed7fdcc31bf57cc13a869daf",
+    "wof:geomhash":"a770828249e5e4f2a2de8e014d62c5eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     8.81667,
     58.53333000000001
 ],
-  "geometry": {"coordinates":[8.81667,58.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.81667,58.53333],"type":"Point"}
 }

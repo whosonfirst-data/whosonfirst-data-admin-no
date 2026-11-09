@@ -58,7 +58,7 @@
         "wk:page":"Bj%C3%B8rnskinn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"3ab1e5e3290953735750133cfc43e9cf",
+    "wof:geomhash":"f6ae1b6963efb2cc01735ef3b8fcbd0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.63294,
     69.00005999999999
 ],
-  "geometry": {"coordinates":[15.63294,69.00005999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.63294,69.00006],"type":"Point"}
 }

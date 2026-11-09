@@ -53,7 +53,7 @@
         "wk:page":"Hesjevika"
     },
     "wof:country":"NO",
-    "wof:geomhash":"7c9ac946927224cc84f19e44d674d480",
+    "wof:geomhash":"ce6c3e05e0b74ac95bb09ac912417a96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     17.80832000000001,
     68.7618
 ],
-  "geometry": {"coordinates":[17.80832000000001,68.76179999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.80832,68.7618],"type":"Point"}
 }

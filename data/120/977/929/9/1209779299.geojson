@@ -61,7 +61,7 @@
         "wk:page":"Vr%C3%A5dal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"99bbcf53123b00820f85c35befe64694",
+    "wof:geomhash":"466bb0cebb6af51b49d9d0883105147d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     8.4926,
     59.32474000000001
 ],
-  "geometry": {"coordinates":[8.4926,59.32474000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.4926,59.32474],"type":"Point"}
 }

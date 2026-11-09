@@ -52,7 +52,7 @@
         "wk:page":"Prestebakke"
     },
     "wof:country":"NO",
-    "wof:geomhash":"2149e33a0d0f3f0045f0a2bb43225dd4",
+    "wof:geomhash":"ac8874efb527fb517c6089fa6cfaac0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     11.53682,
     58.99169000000001
 ],
-  "geometry": {"coordinates":[11.53682,58.99169000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.53682,58.99169],"type":"Point"}
 }

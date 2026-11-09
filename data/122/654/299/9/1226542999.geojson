@@ -61,7 +61,7 @@
         "wk:page":"Longerak"
     },
     "wof:country":"NO",
-    "wof:geomhash":"f3b026254c4b5738f4445cc6dc383a99",
+    "wof:geomhash":"4b68d0f1faa9c9c003de625b4393d1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     7.85256,
     58.75026999999999
 ],
-  "geometry": {"coordinates":[7.85256,58.75026999999999],"type":"Point"}
+  "geometry": {"coordinates":[7.85256,58.75027],"type":"Point"}
 }

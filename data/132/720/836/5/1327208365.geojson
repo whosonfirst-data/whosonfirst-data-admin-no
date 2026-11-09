@@ -56,7 +56,7 @@
         "wk:page":"Oterbekk"
     },
     "wof:country":"NO",
-    "wof:geomhash":"fca644e757769efd861338af845ec4c9",
+    "wof:geomhash":"c0305d0e137d68692390c623a774bf1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     10.45,
     59.18333000000001
 ],
-  "geometry": {"coordinates":[10.45,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.45,59.18333],"type":"Point"}
 }

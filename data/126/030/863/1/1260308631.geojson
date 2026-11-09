@@ -47,7 +47,7 @@
         "wk:page":"Langenes%2C_Finnmark"
     },
     "wof:country":"NO",
-    "wof:geomhash":"dc363f5a3bbc045d9f9e4752922a51ec",
+    "wof:geomhash":"aba94f83835e95fd16e11e70422fcddb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -72,5 +72,5 @@
     23.0,
     70.1
 ],
-  "geometry": {"coordinates":[23.0,70.09999999999999],"type":"Point"}
+  "geometry": {"coordinates":[23,70.1],"type":"Point"}
 }

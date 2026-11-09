@@ -49,7 +49,7 @@
         "wk:page":"S%C3%B8ndeled"
     },
     "wof:country":"NO",
-    "wof:geomhash":"0d61dbe1378655025f8c3090f6184cd4",
+    "wof:geomhash":"bd0f0606659a8749a84ad19c7949d173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     9.07494,
     58.76088000000001
 ],
-  "geometry": {"coordinates":[9.07494,58.76088000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.07494,58.76088],"type":"Point"}
 }

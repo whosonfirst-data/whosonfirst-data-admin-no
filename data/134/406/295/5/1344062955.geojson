@@ -55,7 +55,7 @@
         "wk:page":"Askgrenda"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ae845069d23fe9e6df67cabd8d42d6b5",
+    "wof:geomhash":"c23a4a5d143c9b3261e2f18e6c355543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     10.20257,
     59.81223000000001
 ],
-  "geometry": {"coordinates":[10.20257,59.81223000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.20257,59.81223],"type":"Point"}
 }

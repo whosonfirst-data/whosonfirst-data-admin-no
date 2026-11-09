@@ -52,7 +52,7 @@
         "wk:page":"Sandneshamn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"2d82466a62c1de837a76d7ead7c193e4",
+    "wof:geomhash":"6d5a23735b1e24c9fef7b21acb2b7abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.16954,
     69.63020999999999
 ],
-  "geometry": {"coordinates":[18.16954,69.63020999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.16954,69.63021],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Kistrand"
     },
     "wof:country":"NO",
-    "wof:geomhash":"1f3d979e78936094a2620826a87c2a1b",
+    "wof:geomhash":"0d90a7ea33700612b7e8acab3e3e3f21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     25.19755,
     70.43739000000002
 ],
-  "geometry": {"coordinates":[25.19755,70.43739000000002],"type":"Point"}
+  "geometry": {"coordinates":[25.19755,70.43739],"type":"Point"}
 }

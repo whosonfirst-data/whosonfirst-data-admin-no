@@ -49,7 +49,7 @@
         "wk:page":"Totland%2C_Sogn_og_Fjordane"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a211b7c6e6a8462ecb9fdb5d947a1767",
+    "wof:geomhash":"9d7775e6c45642ef24bfa52ddf39fd42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     5.38333,
     61.93333000000001
 ],
-  "geometry": {"coordinates":[5.38333,61.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.38333,61.93333],"type":"Point"}
 }

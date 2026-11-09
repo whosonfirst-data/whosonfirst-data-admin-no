@@ -52,7 +52,7 @@
         "wk:page":"Hoslemo"
     },
     "wof:country":"NO",
-    "wof:geomhash":"5a2d92a0422c4c8663611666cbac62a7",
+    "wof:geomhash":"d06d5568a707a9f6a3aad19b989089be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     7.39352,
     59.43326999999999
 ],
-  "geometry": {"coordinates":[7.39352,59.43326999999999],"type":"Point"}
+  "geometry": {"coordinates":[7.39352,59.43327],"type":"Point"}
 }

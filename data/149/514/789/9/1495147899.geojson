@@ -56,7 +56,7 @@
         "wk:page":"Nerdrum_Station"
     },
     "wof:country":"NO",
-    "wof:geomhash":"908a9351489ffef811c8a0310e62b954",
+    "wof:geomhash":"d627606cda68bd02007a92d295eab697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     11.14063,
     59.92313000000001
 ],
-  "geometry": {"coordinates":[11.14063,59.92313000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.14063,59.92313],"type":"Point"}
 }

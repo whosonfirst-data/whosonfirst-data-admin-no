@@ -41,7 +41,7 @@
         "wk:page":"Kolgrov"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ed037ed37ae15de8bc55430dc3fd8391",
+    "wof:geomhash":"d172417614a2627e36492cd9bf2cebfb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,5 +66,5 @@
     4.66667,
     61.0
 ],
-  "geometry": {"coordinates":[4.66667,61.0],"type":"Point"}
+  "geometry": {"coordinates":[4.66667,61],"type":"Point"}
 }

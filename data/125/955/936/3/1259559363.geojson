@@ -58,7 +58,7 @@
         "wk:page":"Engenes"
     },
     "wof:country":"NO",
-    "wof:geomhash":"f1f06cef4c59e9bc435fcdce91b814f4",
+    "wof:geomhash":"b541449f585bd5ca2caec3acfe1f81dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.12213,
     68.92508000000001
 ],
-  "geometry": {"coordinates":[17.12213,68.92508000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.12213,68.92508],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Fauskev%C3%A5g"
     },
     "wof:country":"NO",
-    "wof:geomhash":"18602ba71a902a78bfe1a0a6c0778d35",
+    "wof:geomhash":"11a323ecfdbe96953f900e4c8948e115",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     16.57536,
     68.66568000000001
 ],
-  "geometry": {"coordinates":[16.57536,68.66568000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.57536,68.66568],"type":"Point"}
 }

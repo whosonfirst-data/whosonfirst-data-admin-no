@@ -55,7 +55,7 @@
         "wk:page":"Laudal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"3097cafa3f30bb87bea28130a6f95bd1",
+    "wof:geomhash":"e271770ac5e608b8099ad40b47b03ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     7.45512,
     58.26824000000001
 ],
-  "geometry": {"coordinates":[7.45512,58.26824000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.45512,58.26824],"type":"Point"}
 }

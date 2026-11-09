@@ -61,7 +61,7 @@
         "wk:page":"B%C3%B8n"
     },
     "wof:country":"NO",
-    "wof:geomhash":"76b25416c3f3e8505663e931d19e9db5",
+    "wof:geomhash":"b763bb3cca4addca403653f96c3b02bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     11.19862,
     60.29134000000001
 ],
-  "geometry": {"coordinates":[11.19862,60.29134000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.19862,60.29134],"type":"Point"}
 }

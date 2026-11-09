@@ -62,7 +62,7 @@
         "wk:page":"Eppeland"
     },
     "wof:country":"NO",
-    "wof:geomhash":"2e886de4086dcda529f20d79294b3487",
+    "wof:geomhash":"9d29de08f3966f7970a021354932290a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     8.36667,
     58.71666999999999
 ],
-  "geometry": {"coordinates":[8.36667,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.36667,58.71667],"type":"Point"}
 }

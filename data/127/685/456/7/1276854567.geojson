@@ -52,7 +52,7 @@
         "wk:page":"H%C3%A5landsosen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"33b0ba385704ff4ab13ffa48b20580d7",
+    "wof:geomhash":"a48fe6b5a50d2137bedf6a0216fa24b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     6.2397,
     59.34829000000001
 ],
-  "geometry": {"coordinates":[6.2397,59.34829000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.2397,59.34829],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Mebonden"
     },
     "wof:country":"NO",
-    "wof:geomhash":"dfa5da5b142db6cd26687f52ea32fbff",
+    "wof:geomhash":"4d6887c4eab0f34463c963208797cd83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     11.03099,
     63.23034000000001
 ],
-  "geometry": {"coordinates":[11.03099,63.23034000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.03099,63.23034],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Gl%C3%A5mos"
     },
     "wof:country":"NO",
-    "wof:geomhash":"5508103d1ed8a9d2de7b6e5b613e259d",
+    "wof:geomhash":"28a28aa76147f2b648cfba962e55425b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     11.42885,
     62.67138000000001
 ],
-  "geometry": {"coordinates":[11.42885,62.67138000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.42885,62.67138],"type":"Point"}
 }

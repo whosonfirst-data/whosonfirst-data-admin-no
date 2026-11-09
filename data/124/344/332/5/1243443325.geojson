@@ -43,7 +43,7 @@
         "wk:page":"Vemundvik"
     },
     "wof:country":"NO",
-    "wof:geomhash":"bec2c0c1877ca18706298844666130f9",
+    "wof:geomhash":"e7ef15f7233d29cc94d2c0f21b902a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     11.53333,
     64.51666999999999
 ],
-  "geometry": {"coordinates":[11.53333,64.51666999999999],"type":"Point"}
+  "geometry": {"coordinates":[11.53333,64.51667],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Skiple_Station"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ebc8b9d558dea3e8e02ee688f45ee7a9",
+    "wof:geomhash":"327848cf7f423d51a67ac6e1882bb0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     6.68333,
     60.68333000000001
 ],
-  "geometry": {"coordinates":[6.68333,60.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.68333,60.68333],"type":"Point"}
 }

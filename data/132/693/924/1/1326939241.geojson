@@ -52,7 +52,7 @@
         "wk:page":"N%C3%A6vesdal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"3e4a4ab49645ff6bad3dfb3405354c56",
+    "wof:geomhash":"381c5f8b4e5857e5767d02b20dcf3ff2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     8.58333,
     58.43333000000001
 ],
-  "geometry": {"coordinates":[8.58333,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.58333,58.43333],"type":"Point"}
 }

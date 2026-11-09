@@ -80,7 +80,7 @@
         "wk:page":"Hesseng"
     },
     "wof:country":"NO",
-    "wof:geomhash":"dc6095cbd8a67cadcf1d7668010b838a",
+    "wof:geomhash":"297a68fed637e9d055ec7211fea2883b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,5 +109,5 @@
     29.98817,
     69.68753000000001
 ],
-  "geometry": {"coordinates":[29.98817,69.68753000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.98817,69.68753],"type":"Point"}
 }

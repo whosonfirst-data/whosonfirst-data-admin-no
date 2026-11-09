@@ -47,7 +47,7 @@
         "wk:page":"Grim%2C_Vest-Agder"
     },
     "wof:country":"NO",
-    "wof:geomhash":"c13bafc4dda5190786e17ded43a0686e",
+    "wof:geomhash":"1841b3a19935358b53632bb3a9f74f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     7.97187,
     58.14928000000001
 ],
-  "geometry": {"coordinates":[7.97187,58.14928000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.97187,58.14928],"type":"Point"}
 }

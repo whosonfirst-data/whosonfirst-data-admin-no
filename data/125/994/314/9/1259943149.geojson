@@ -56,7 +56,7 @@
         "wk:page":"Skrollsvika"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b974a537075462e37d2aab991a04acbd",
+    "wof:geomhash":"804c67f0d141b65ff14c7b77bf02779a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     16.81489,
     69.06409000000001
 ],
-  "geometry": {"coordinates":[16.81489,69.06409000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.81489,69.06409],"type":"Point"}
 }

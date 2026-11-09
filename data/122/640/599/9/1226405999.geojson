@@ -56,7 +56,7 @@
         "wk:page":"Bostrak"
     },
     "wof:country":"NO",
-    "wof:geomhash":"bfec8aaa946e72338eb4093d1073f60c",
+    "wof:geomhash":"ed4ebf6855467765f96dcb7e0192cc42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     8.88333,
     59.11666999999999
 ],
-  "geometry": {"coordinates":[8.88333,59.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.88333,59.11667],"type":"Point"}
 }

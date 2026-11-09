@@ -65,7 +65,7 @@
         "wk:page":"Eidsdal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"25216cb82572a97251d464323480d909",
+    "wof:geomhash":"17daca15b6e59c8a558d4446163f7b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     7.17184,
     62.26258000000001
 ],
-  "geometry": {"coordinates":[7.17184,62.26258000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.17184,62.26258],"type":"Point"}
 }

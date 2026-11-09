@@ -61,7 +61,7 @@
         "wk:page":"Stokkv%C3%A5gen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ab2791cf13d33856aa6de5f1e247c6ba",
+    "wof:geomhash":"022508588d94d11db0030f2add76c3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     13.01423,
     66.33828000000001
 ],
-  "geometry": {"coordinates":[13.01423,66.33828000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.01423,66.33828],"type":"Point"}
 }

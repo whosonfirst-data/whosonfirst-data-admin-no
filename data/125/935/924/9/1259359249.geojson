@@ -76,7 +76,7 @@
         "wk:page":"Vemork"
     },
     "wof:country":"NO",
-    "wof:geomhash":"53d208f91ec784a7428ac68fcc530f86",
+    "wof:geomhash":"2ac396a2d78af0c3b2622e462342c8d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     8.48333,
     59.86666999999999
 ],
-  "geometry": {"coordinates":[8.48333,59.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.48333,59.86667],"type":"Point"}
 }

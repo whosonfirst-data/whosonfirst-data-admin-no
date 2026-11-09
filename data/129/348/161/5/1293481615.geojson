@@ -56,7 +56,7 @@
         "wk:page":"Als%C3%A5ker"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b47dba04db9e15d06df8ee55d463a726",
+    "wof:geomhash":"8dc3a4fc699d255e0c1459369a23c40c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     6.50207,
     60.39123000000001
 ],
-  "geometry": {"coordinates":[6.50207,60.39123000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.50207,60.39123],"type":"Point"}
 }

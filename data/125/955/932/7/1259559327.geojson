@@ -142,7 +142,7 @@
         "wk:page":"Balsfjord"
     },
     "wof:country":"NO",
-    "wof:geomhash":"4b9ca89e0e747c6f824a76abe8c26153",
+    "wof:geomhash":"7f7a2fe7e103308b1ec030abf249d121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,5 +167,5 @@
     19.36667000000001,
     69.31667
 ],
-  "geometry": {"coordinates":[19.36667000000001,69.31667],"type":"Point"}
+  "geometry": {"coordinates":[19.36667,69.31667],"type":"Point"}
 }

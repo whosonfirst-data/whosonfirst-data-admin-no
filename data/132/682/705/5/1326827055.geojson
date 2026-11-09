@@ -67,7 +67,7 @@
         "wk:page":"Fiksdal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"966e19903b2a1559f1a880464d903859",
+    "wof:geomhash":"6d9ce8fe3edc1e0bb311c8672c0b3cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     6.86667,
     62.61666999999999
 ],
-  "geometry": {"coordinates":[6.86667,62.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[6.86667,62.61667],"type":"Point"}
 }

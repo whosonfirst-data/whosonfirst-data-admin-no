@@ -52,7 +52,7 @@
         "wk:page":"Kvammen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"f18bd5c4f37db7c8e9fba0ee2c5072b7",
+    "wof:geomhash":"b5795f0b010a08389b50f7bbac549d89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     5.41684,
     61.45868000000001
 ],
-  "geometry": {"coordinates":[5.41684,61.45868000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.41684,61.45868],"type":"Point"}
 }

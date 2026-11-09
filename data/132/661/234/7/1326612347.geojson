@@ -49,7 +49,7 @@
         "wk:page":"Aunegrenda"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b5864ec5a12472a9a563848bb1cc4707",
+    "wof:geomhash":"3390b485390e28a3bbfa8fb92a6a799a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     11.25748,
     62.95209000000001
 ],
-  "geometry": {"coordinates":[11.25748,62.95209000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.25748,62.95209],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"%C3%85farnes"
     },
     "wof:country":"NO",
-    "wof:geomhash":"fedc84fdbd828d543780f45240d8166b",
+    "wof:geomhash":"fae16a411f36127d0015a16e0cf022f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     7.50134,
     62.66161999999999
 ],
-  "geometry": {"coordinates":[7.50134,62.66161999999999],"type":"Point"}
+  "geometry": {"coordinates":[7.50134,62.66162],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "gn:id":3159033
     },
     "wof:country":"NO",
-    "wof:geomhash":"8d520db9b62e50f6aae11dcee7b1cb68",
+    "wof:geomhash":"4d3226ddcbcafee6970c5948185fd462",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,5 +73,5 @@
     12.3,
     65.98333000000001
 ],
-  "geometry": {"coordinates":[12.3,65.98333000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.3,65.98333],"type":"Point"}
 }

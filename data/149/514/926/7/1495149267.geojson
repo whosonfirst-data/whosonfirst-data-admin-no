@@ -44,7 +44,7 @@
         "wk:page":"Grav"
     },
     "wof:country":"NO",
-    "wof:geomhash":"e19ad00e8e81efd289614b885704de04",
+    "wof:geomhash":"41828bc04864aa87910fd7d117b4c666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,5 +73,5 @@
     12.11667,
     67.51666999999999
 ],
-  "geometry": {"coordinates":[12.11667,67.51666999999999],"type":"Point"}
+  "geometry": {"coordinates":[12.11667,67.51667],"type":"Point"}
 }

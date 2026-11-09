@@ -71,7 +71,7 @@
         "wk:page":"Silsand"
     },
     "wof:country":"NO",
-    "wof:geomhash":"68aec96b7a2213a768bf9ee2800691ee",
+    "wof:geomhash":"ef273bf02917eb41f551bc4f91b0bee8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     17.94928999999999,
     69.24491
 ],
-  "geometry": {"coordinates":[17.94928999999999,69.24491],"type":"Point"}
+  "geometry": {"coordinates":[17.94929,69.24491],"type":"Point"}
 }

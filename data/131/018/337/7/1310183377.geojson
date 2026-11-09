@@ -67,7 +67,7 @@
         "wk:page":"Slidre"
     },
     "wof:country":"NO",
-    "wof:geomhash":"d1a2daed97bc535133b65fa189b5a39c",
+    "wof:geomhash":"cba627e3aa0da2dee2b9d53a80f95a3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     8.98141,
     61.08801999999999
 ],
-  "geometry": {"coordinates":[8.98141,61.08801999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.98141,61.08802],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Kanebogen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"1fa310ac21642918a9a92b3786b6fa27",
+    "wof:geomhash":"0b9336c68794bf37009cf49915200763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,5 +73,5 @@
     16.56667,
     68.76666999999999
 ],
-  "geometry": {"coordinates":[16.56667,68.76666999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.56667,68.76667],"type":"Point"}
 }

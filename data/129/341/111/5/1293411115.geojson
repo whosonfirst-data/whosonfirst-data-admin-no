@@ -49,7 +49,7 @@
         "wk:page":"Havr%C3%A5"
     },
     "wof:country":"NO",
-    "wof:geomhash":"0517f11304ecfe5ef79f7bcc774196cc",
+    "wof:geomhash":"94aa477f1a6a902eb53a5f0bcb8f0b52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -74,5 +74,5 @@
     5.56667,
     60.43333000000001
 ],
-  "geometry": {"coordinates":[5.56667,60.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.56667,60.43333],"type":"Point"}
 }

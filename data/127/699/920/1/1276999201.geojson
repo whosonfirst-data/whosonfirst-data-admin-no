@@ -65,7 +65,7 @@
         "wk:page":"Blylaget"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a97efe28a11db99fc277beb5f0155e4a",
+    "wof:geomhash":"6af925df7f442d8ae382b3d2936bf140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     10.70667,
     59.77721999999999
 ],
-  "geometry": {"coordinates":[10.70667,59.77721999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.70667,59.77722],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Sandstrand%2C_Troms"
     },
     "wof:country":"NO",
-    "wof:geomhash":"cac1e17f20fbcd98ee8470801febce3d",
+    "wof:geomhash":"6b08408e0edfb8c084d0b725aaff66cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.78662000000001,
     68.67824
 ],
-  "geometry": {"coordinates":[16.78662000000001,68.67824],"type":"Point"}
+  "geometry": {"coordinates":[16.78662,68.67824],"type":"Point"}
 }

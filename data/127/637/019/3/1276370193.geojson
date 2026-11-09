@@ -52,7 +52,7 @@
         "wk:page":"Ask%2C_Buskerud"
     },
     "wof:country":"NO",
-    "wof:geomhash":"4610a9a511b8c7104921df03ae8d0155",
+    "wof:geomhash":"3f8f830de612a5c30584693b2e2bb6a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     10.16799,
     60.13538000000001
 ],
-  "geometry": {"coordinates":[10.16799,60.13538000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.16799,60.13538],"type":"Point"}
 }

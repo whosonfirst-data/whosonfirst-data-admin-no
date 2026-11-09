@@ -69,7 +69,7 @@
         "wk:page":"Hvitsten"
     },
     "wof:country":"NO",
-    "wof:geomhash":"306270f45050f8cd62a72f2d9951cfb3",
+    "wof:geomhash":"cda4d453b1164880124650c5ba01368b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     10.65545,
     59.59863000000001
 ],
-  "geometry": {"coordinates":[10.65545,59.59863000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.65545,59.59863],"type":"Point"}
 }

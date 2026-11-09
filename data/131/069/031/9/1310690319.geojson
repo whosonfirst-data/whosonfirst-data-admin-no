@@ -56,7 +56,7 @@
         "wk:page":"Hasv%C3%A5g"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ee4b91da18b97415f4df693f464cea4a",
+    "wof:geomhash":"00bfcc63b443d7535137d669833dd12e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     10.605,
     64.44778000000001
 ],
-  "geometry": {"coordinates":[10.605,64.44778000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.605,64.44778],"type":"Point"}
 }

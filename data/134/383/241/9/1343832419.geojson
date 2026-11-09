@@ -58,7 +58,7 @@
         "wk:page":"Sundbyfoss"
     },
     "wof:country":"NO",
-    "wof:geomhash":"2cf70ea1edac12feaa41dcf65541d5f6",
+    "wof:geomhash":"a7adf9b05827e02163623123045c96b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     10.12672,
     59.51351999999999
 ],
-  "geometry": {"coordinates":[10.12672,59.51351999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.12672,59.51352],"type":"Point"}
 }

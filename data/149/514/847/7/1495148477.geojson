@@ -53,7 +53,7 @@
         "wk:page":"Tenneb%C3%B8"
     },
     "wof:country":"NO",
-    "wof:geomhash":"95eea07d8caa5af67db0f63a62e67290",
+    "wof:geomhash":"faa4363ef090e0d491308eeb269a4564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     5.16227,
     61.91739000000001
 ],
-  "geometry": {"coordinates":[5.16227,61.91739000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.16227,61.91739],"type":"Point"}
 }

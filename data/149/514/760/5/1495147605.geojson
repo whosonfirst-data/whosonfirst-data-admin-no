@@ -50,7 +50,7 @@
         "wk:page":"Leangen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"e61df36688d8c3f904f480fa6995d820",
+    "wof:geomhash":"6f5cebe35ae326a5a690af2aec819a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     10.48333,
     63.43333000000001
 ],
-  "geometry": {"coordinates":[10.48333,63.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.48333,63.43333],"type":"Point"}
 }

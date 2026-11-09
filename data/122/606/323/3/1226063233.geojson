@@ -55,7 +55,7 @@
         "wk:page":"Skorovatn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"5f71fb663789b7ec00c822c94cf8d2f1",
+    "wof:geomhash":"584bd4bd51325a2154b59bcc4fa2ef26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     13.11353,
     64.64386999999999
 ],
-  "geometry": {"coordinates":[13.11353,64.64386999999999],"type":"Point"}
+  "geometry": {"coordinates":[13.11353,64.64387],"type":"Point"}
 }

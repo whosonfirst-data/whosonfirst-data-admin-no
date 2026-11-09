@@ -50,7 +50,7 @@
         "wk:page":"Bj%C3%B8rke"
     },
     "wof:country":"NO",
-    "wof:geomhash":"686b635da8ad1c3bc23f51f87cea3866",
+    "wof:geomhash":"215d6d0aa217cb8080b4b098df81a04c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     6.55689,
     62.10149000000001
 ],
-  "geometry": {"coordinates":[6.55689,62.10149000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.55689,62.10149],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Skivika"
     },
     "wof:country":"NO",
-    "wof:geomhash":"dc0e9544c7055e7e923ce747f1d3fd3e",
+    "wof:geomhash":"37280dfe2badf59a46b783f9fd173a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     11.0741,
     59.21523000000001
 ],
-  "geometry": {"coordinates":[11.0741,59.21523000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.0741,59.21523],"type":"Point"}
 }

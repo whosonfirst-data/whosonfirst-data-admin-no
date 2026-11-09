@@ -56,7 +56,7 @@
         "wk:page":"Litveit"
     },
     "wof:country":"NO",
-    "wof:geomhash":"9fa3858f1461a49440cbfb021caf02a8",
+    "wof:geomhash":"e02c6d82f2b9905e01e44c54836a5121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     7.76667,
     58.93333000000001
 ],
-  "geometry": {"coordinates":[7.76667,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.76667,58.93333],"type":"Point"}
 }

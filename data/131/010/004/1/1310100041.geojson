@@ -52,7 +52,7 @@
         "wk:page":"Dunderland"
     },
     "wof:country":"NO",
-    "wof:geomhash":"54e6253696504f16d5e3717fde259fdb",
+    "wof:geomhash":"090595b16bcda88c5b514de63b4b203f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     14.83894,
     66.44561999999999
 ],
-  "geometry": {"coordinates":[14.83894,66.44561999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.83894,66.44562],"type":"Point"}
 }

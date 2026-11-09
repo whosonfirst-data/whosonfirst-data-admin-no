@@ -61,7 +61,7 @@
         "wk:page":"Fenstad"
     },
     "wof:country":"NO",
-    "wof:geomhash":"0601e5a2ba818c3d974d97a80a7f44a5",
+    "wof:geomhash":"5bd86b8f94cc5f4ce6fe3d556b840fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     11.39274,
     60.21978000000001
 ],
-  "geometry": {"coordinates":[11.39274,60.21978000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.39274,60.21978],"type":"Point"}
 }

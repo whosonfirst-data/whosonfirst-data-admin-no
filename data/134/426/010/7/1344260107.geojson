@@ -55,7 +55,7 @@
         "wk:page":"Grendi"
     },
     "wof:country":"NO",
-    "wof:geomhash":"f57555bda57750e394559e9d21679971",
+    "wof:geomhash":"d53c74484df8c95bca2a60c6a74c70b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     7.82553,
     58.70681999999999
 ],
-  "geometry": {"coordinates":[7.82553,58.70681999999999],"type":"Point"}
+  "geometry": {"coordinates":[7.82553,58.70682],"type":"Point"}
 }

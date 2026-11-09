@@ -63,7 +63,7 @@
         "wk:page":"Finstadbru"
     },
     "wof:country":"NO",
-    "wof:geomhash":"14a313984994f72956057e7a4bfa6a31",
+    "wof:geomhash":"1b673a20aabc237ecfb0b21bcaebb628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     11.43423,
     59.94009000000001
 ],
-  "geometry": {"coordinates":[11.43423,59.94009000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.43423,59.94009],"type":"Point"}
 }

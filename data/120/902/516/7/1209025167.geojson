@@ -55,7 +55,7 @@
         "wk:page":"Drevja"
     },
     "wof:country":"NO",
-    "wof:geomhash":"87a65a0445c5d21f97984bc5740f059f",
+    "wof:geomhash":"03b55c77f3cf2b1aff27cfcdfcc61daa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     13.25,
     65.98333000000001
 ],
-  "geometry": {"coordinates":[13.25,65.98333000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.25,65.98333],"type":"Point"}
 }

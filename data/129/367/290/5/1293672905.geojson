@@ -46,7 +46,7 @@
         "wk:page":"J%C3%B8ssund%2C_Nord-Tr%C3%B8ndelag"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ec4f5a2bccfc8ae1d9828784adb85355",
+    "wof:geomhash":"e91643dce5770776ca89d46834702d47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     10.82477,
     64.36431999999999
 ],
-  "geometry": {"coordinates":[10.82477,64.36431999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.82477,64.36432],"type":"Point"}
 }

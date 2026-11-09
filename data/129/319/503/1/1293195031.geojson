@@ -146,7 +146,7 @@
         "wk:page":"Meland"
     },
     "wof:country":"NO",
-    "wof:geomhash":"8ecb2ab287413f85c125c4cd5aa345bc",
+    "wof:geomhash":"b3fb9cbe16f7bb0b45fed6a435ad079c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,5 +172,5 @@
     5.2,
     60.53333000000001
 ],
-  "geometry": {"coordinates":[5.2,60.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.2,60.53333],"type":"Point"}
 }

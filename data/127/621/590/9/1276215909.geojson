@@ -52,7 +52,7 @@
         "wk:page":"Bergsmoen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b928a56fe19c4894e6e477ca01d3b52d",
+    "wof:geomhash":"a90bc18f0c720129492df3f0c51dff4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     12.21844,
     64.46753000000001
 ],
-  "geometry": {"coordinates":[12.21844,64.46753000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.21844,64.46753],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Nordli"
     },
     "wof:country":"NO",
-    "wof:geomhash":"d6510d6b2433a38000ee585f3fda56b8",
+    "wof:geomhash":"aac4a9ec385e940ed19116310f94c640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     13.59249,
     64.46413000000001
 ],
-  "geometry": {"coordinates":[13.59249,64.46413000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.59249,64.46413],"type":"Point"}
 }

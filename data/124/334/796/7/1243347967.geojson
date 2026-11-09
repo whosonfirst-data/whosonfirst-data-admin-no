@@ -52,7 +52,7 @@
         "wk:page":"Kjul"
     },
     "wof:country":"NO",
-    "wof:geomhash":"9d2943b5b63ae043b1c4da7dab7dbc8e",
+    "wof:geomhash":"cda53159913ffe5fee87af0d2102cddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     12.0,
     65.63333
 ],
-  "geometry": {"coordinates":[12.0,65.63333],"type":"Point"}
+  "geometry": {"coordinates":[12,65.63333],"type":"Point"}
 }

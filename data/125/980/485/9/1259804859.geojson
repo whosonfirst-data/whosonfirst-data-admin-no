@@ -61,7 +61,7 @@
         "wk:page":"Haugland%2C_Rad%C3%B8y"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b5258fc34b714ca643ff040a1f94c842",
+    "wof:geomhash":"b466e7d60a4472104807a2764cd6343b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     4.9331,
     60.69448000000001
 ],
-  "geometry": {"coordinates":[4.9331,60.69448000000001],"type":"Point"}
+  "geometry": {"coordinates":[4.9331,60.69448],"type":"Point"}
 }

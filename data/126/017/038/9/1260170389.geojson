@@ -52,7 +52,7 @@
         "wk:page":"Otter%C3%B8y"
     },
     "wof:country":"NO",
-    "wof:geomhash":"677e5c58c808f4d01d9a3340c3b1b30c",
+    "wof:geomhash":"320549cb6fa1c45a605f018f13e17eb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     11.3,
     64.51666999999999
 ],
-  "geometry": {"coordinates":[11.3,64.51666999999999],"type":"Point"}
+  "geometry": {"coordinates":[11.3,64.51667],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Steinsdalen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"7474416d6a98ce8de51232e5322c92cc",
+    "wof:geomhash":"f721cf5b440041b88aad19107dacf0de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     5.31667,
     60.93333000000001
 ],
-  "geometry": {"coordinates":[5.31667,60.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.31667,60.93333],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Budal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"bb85927a505d6c24d843fce4ed1fc00f",
+    "wof:geomhash":"f17ba2d0c57ce43a35daccbe65cf3c09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     10.5,
     62.88333000000001
 ],
-  "geometry": {"coordinates":[10.5,62.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.5,62.88333],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Melandsj%C3%B8en"
     },
     "wof:country":"NO",
-    "wof:geomhash":"406c3c4e56ddc5923e7d8e168eb33021",
+    "wof:geomhash":"97a8361ce687251a850d566617e58496",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     8.73192,
     63.62909000000001
 ],
-  "geometry": {"coordinates":[8.73192,63.62909000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.73192,63.62909],"type":"Point"}
 }

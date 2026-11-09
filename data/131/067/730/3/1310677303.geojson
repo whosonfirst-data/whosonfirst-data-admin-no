@@ -49,7 +49,7 @@
         "wk:page":"Kambo"
     },
     "wof:country":"NO",
-    "wof:geomhash":"988f1c2178464c617673ea09b062a192",
+    "wof:geomhash":"1d7de171e4f4f806ce9c55a4943cdd8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     10.69578,
     59.48291999999999
 ],
-  "geometry": {"coordinates":[10.69578,59.48291999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.69578,59.48292],"type":"Point"}
 }

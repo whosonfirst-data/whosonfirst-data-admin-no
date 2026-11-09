@@ -52,7 +52,7 @@
         "wk:page":"Lote%2C_Norway"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a1b33586fb73567ec3197bc1d4be32cd",
+    "wof:geomhash":"98a8a2778de678179c95c9f4a1dc16b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     6.55,
     60.43333000000001
 ],
-  "geometry": {"coordinates":[6.55,60.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.55,60.43333],"type":"Point"}
 }

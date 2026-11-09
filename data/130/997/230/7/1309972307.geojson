@@ -49,7 +49,7 @@
         "wk:page":"Rens%C3%A5"
     },
     "wof:country":"NO",
-    "wof:geomhash":"f48841f11ca409d89c03e1f28e510327",
+    "wof:geomhash":"8b293fdd4309a9778b31f20c19b0f7ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.91301,
     68.68621999999999
 ],
-  "geometry": {"coordinates":[16.91301,68.68621999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.91301,68.68622],"type":"Point"}
 }

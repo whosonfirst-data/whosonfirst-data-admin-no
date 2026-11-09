@@ -49,7 +49,7 @@
         "wk:page":"Skottevik"
     },
     "wof:country":"NO",
-    "wof:geomhash":"41fd23cdd5d5cae4be0f666ba529f624",
+    "wof:geomhash":"346dd9c820ad3dda8cbbaa3dd9c7d7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     8.97139,
     58.58833000000001
 ],
-  "geometry": {"coordinates":[8.97139,58.58833000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.97139,58.58833],"type":"Point"}
 }

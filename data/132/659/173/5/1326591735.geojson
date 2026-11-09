@@ -56,7 +56,7 @@
         "wk:page":"Nesbrygga"
     },
     "wof:country":"NO",
-    "wof:geomhash":"6ec6daaa37e5853e7f6476688caf0eae",
+    "wof:geomhash":"0a0950db9d5058202020ac57aded2002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     10.45361,
     59.22018000000001
 ],
-  "geometry": {"coordinates":[10.45361,59.22018000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.45361,59.22018],"type":"Point"}
 }

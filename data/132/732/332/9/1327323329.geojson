@@ -141,7 +141,7 @@
         "wk:page":"Beiarn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"e96e61c415239ea1ee68494f1366fc7d",
+    "wof:geomhash":"9040379b59cedbc2bb3c3f2b45b56934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,5 +167,5 @@
     14.56667,
     67.01666999999999
 ],
-  "geometry": {"coordinates":[14.56667,67.01666999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.56667,67.01667],"type":"Point"}
 }

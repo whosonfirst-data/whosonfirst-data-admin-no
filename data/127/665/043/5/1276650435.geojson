@@ -57,7 +57,7 @@
         "wk:page":"Val%C3%B8ya"
     },
     "wof:country":"NO",
-    "wof:geomhash":"fa283248e86721d78d8db82770feddd2",
+    "wof:geomhash":"1f8258dab3c3b6a35a28730f10940f42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     10.78421,
     64.90890999999999
 ],
-  "geometry": {"coordinates":[10.78421,64.90890999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.78421,64.90891],"type":"Point"}
 }

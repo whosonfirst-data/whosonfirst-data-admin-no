@@ -53,7 +53,7 @@
         "wk:page":"Tveita"
     },
     "wof:country":"NO",
-    "wof:geomhash":"98be6357e4b911f2cd4f1e581808903a",
+    "wof:geomhash":"7facc2a1281436575df698a5cafe537d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     5.98333,
     59.38333000000001
 ],
-  "geometry": {"coordinates":[5.98333,59.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.98333,59.38333],"type":"Point"}
 }

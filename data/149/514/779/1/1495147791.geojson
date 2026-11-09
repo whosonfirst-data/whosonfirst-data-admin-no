@@ -50,7 +50,7 @@
         "wk:page":"Ime"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b5368b54b3e98aebe63c6e8c0e6218b8",
+    "wof:geomhash":"15f4793699ff4605e83a809326e7e8cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     7.5,
     58.03333000000001
 ],
-  "geometry": {"coordinates":[7.5,58.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.5,58.03333],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Sydalen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"8933dc01e9e454f3723141f00097802b",
+    "wof:geomhash":"457b232351a21888520984729165bd11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.33868,
     68.28723000000001
 ],
-  "geometry": {"coordinates":[14.33868,68.28723000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.33868,68.28723],"type":"Point"}
 }

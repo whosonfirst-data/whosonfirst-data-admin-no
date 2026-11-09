@@ -70,7 +70,7 @@
         "wk:page":"Segalstad_bru"
     },
     "wof:country":"NO",
-    "wof:geomhash":"3d197f4d0a99d83f52a92d8d7447ca99",
+    "wof:geomhash":"83c1a5114f0d5f6f8837eacbd54df17c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     10.22255,
     61.22819000000001
 ],
-  "geometry": {"coordinates":[10.22255,61.22819000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.22255,61.22819],"type":"Point"}
 }

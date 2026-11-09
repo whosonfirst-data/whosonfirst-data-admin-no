@@ -52,7 +52,7 @@
         "wk:page":"Gjone"
     },
     "wof:country":"NO",
-    "wof:geomhash":"38c2303f3473ec8fc40ee06b73c732c2",
+    "wof:geomhash":"cde507754700b41b6f3f8943f7db94a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     9.98333,
     59.18333000000001
 ],
-  "geometry": {"coordinates":[9.98333,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.98333,59.18333],"type":"Point"}
 }

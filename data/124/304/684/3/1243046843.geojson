@@ -52,7 +52,7 @@
         "wk:page":"Mj%C3%B8lhus"
     },
     "wof:country":"NO",
-    "wof:geomhash":"8e76f0be3b1a32d2aa95e2f462e9ec60",
+    "wof:geomhash":"10c5d81abbb6e4549587a80bd3a87c50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     6.03333,
     58.46666999999999
 ],
-  "geometry": {"coordinates":[6.03333,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[6.03333,58.46667],"type":"Point"}
 }

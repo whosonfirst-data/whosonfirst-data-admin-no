@@ -65,7 +65,7 @@
         "wk:page":"Upsete_Station"
     },
     "wof:country":"NO",
-    "wof:geomhash":"6fdeaf237dc5ae0f0097a49f4a4a08ad",
+    "wof:geomhash":"20d7359f2e617606d4c36b3a974646d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     7.0,
     60.73333
 ],
-  "geometry": {"coordinates":[7.0,60.73333],"type":"Point"}
+  "geometry": {"coordinates":[7,60.73333],"type":"Point"}
 }

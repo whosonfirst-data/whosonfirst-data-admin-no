@@ -139,7 +139,7 @@
         "wk:page":"Flesberg"
     },
     "wof:country":"NO",
-    "wof:geomhash":"514bb0d4c0e13b6c1e613e873df14f11",
+    "wof:geomhash":"27f113850548e0b4e86cbae49d30b27f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,5 +165,5 @@
     9.43246,
     59.86298000000001
 ],
-  "geometry": {"coordinates":[9.43246,59.86298000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.43246,59.86298],"type":"Point"}
 }

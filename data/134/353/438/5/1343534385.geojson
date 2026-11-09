@@ -55,7 +55,7 @@
         "wk:page":"Heggjabygda"
     },
     "wof:country":"NO",
-    "wof:geomhash":"727b72fce8350284cf9e7c9d4f5b3abb",
+    "wof:geomhash":"ece7b09c35cb29e7fa5226be2727fb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     6.25664,
     61.93333000000001
 ],
-  "geometry": {"coordinates":[6.25664,61.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.25664,61.93333],"type":"Point"}
 }

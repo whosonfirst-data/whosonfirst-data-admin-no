@@ -55,7 +55,7 @@
         "wk:page":"Vehus"
     },
     "wof:country":"NO",
-    "wof:geomhash":"dabb20f7c69e94814216004c27455c50",
+    "wof:geomhash":"0fc464910836431f9a653813e3990d88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     8.03333,
     59.63333000000001
 ],
-  "geometry": {"coordinates":[8.03333,59.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.03333,59.63333],"type":"Point"}
 }

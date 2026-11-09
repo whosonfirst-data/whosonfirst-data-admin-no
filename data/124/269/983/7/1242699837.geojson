@@ -60,7 +60,7 @@
         "wk:page":"Svullrya"
     },
     "wof:country":"NO",
-    "wof:geomhash":"73a7e82f94b9b8e36901cd239703ba40",
+    "wof:geomhash":"d68d6349a13f841d49596f79edc3c0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     12.40242,
     60.41778000000001
 ],
-  "geometry": {"coordinates":[12.40242,60.41778000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.40242,60.41778],"type":"Point"}
 }

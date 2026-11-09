@@ -46,7 +46,7 @@
         "wk:page":"Fefor"
     },
     "wof:country":"NO",
-    "wof:geomhash":"0f0225a19869bffe5caf89d5b24ccabf",
+    "wof:geomhash":"352801c2ea8fbd89d1a9cbc02febc4c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     9.65,
     61.53333000000001
 ],
-  "geometry": {"coordinates":[9.65,61.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.65,61.53333],"type":"Point"}
 }

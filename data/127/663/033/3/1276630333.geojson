@@ -49,7 +49,7 @@
         "wk:page":"Grimestad"
     },
     "wof:country":"NO",
-    "wof:geomhash":"68431d7aba2533d9810cd1153242180a",
+    "wof:geomhash":"286ee13ecc97b1fa997d503505646c14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     7.45,
     58.18333000000001
 ],
-  "geometry": {"coordinates":[7.45,58.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.45,58.18333],"type":"Point"}
 }

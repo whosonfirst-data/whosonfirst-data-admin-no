@@ -49,7 +49,7 @@
         "wk:page":"Nerg%C3%A5rden"
     },
     "wof:country":"NO",
-    "wof:geomhash":"1abf3b7a8c43fef467e15e1aa6134372",
+    "wof:geomhash":"56d0f024c8ac859da081188ef3a7b9f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -74,5 +74,5 @@
     16.55,
     69.0
 ],
-  "geometry": {"coordinates":[16.55,69.0],"type":"Point"}
+  "geometry": {"coordinates":[16.55,69],"type":"Point"}
 }

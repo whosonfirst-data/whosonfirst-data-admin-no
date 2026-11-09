@@ -46,7 +46,7 @@
         "wk:page":"Gunnarnes"
     },
     "wof:country":"NO",
-    "wof:geomhash":"2315beb2e4b97d25b6d85783673e4cba",
+    "wof:geomhash":"1ab80d27d8f2ba198752fd14d8847635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     24.11648,
     70.99828000000002
 ],
-  "geometry": {"coordinates":[24.11648,70.99828000000002],"type":"Point"}
+  "geometry": {"coordinates":[24.11648,70.99828],"type":"Point"}
 }

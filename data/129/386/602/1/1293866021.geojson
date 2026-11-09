@@ -148,7 +148,7 @@
         "wk:page":"Orkdal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"397a400e13c5e473144f407f1fb6245c",
+    "wof:geomhash":"23f8d3d75dedb1bf0c89a24d9146f25a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,5 +174,5 @@
     9.82395,
     63.27368000000001
 ],
-  "geometry": {"coordinates":[9.82395,63.27368000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.82395,63.27368],"type":"Point"}
 }

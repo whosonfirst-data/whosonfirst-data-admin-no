@@ -53,7 +53,7 @@
         "wk:page":"Gjeller%C3%A5sen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a60cb3a64806a2618c7ffbaf49d86f0e",
+    "wof:geomhash":"b1e953abcf117b45e54ca9bc97874e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     10.933,
     59.98708000000001
 ],
-  "geometry": {"coordinates":[10.933,59.98708000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.933,59.98708],"type":"Point"}
 }

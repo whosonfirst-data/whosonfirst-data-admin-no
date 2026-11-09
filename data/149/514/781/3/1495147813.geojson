@@ -59,7 +59,7 @@
         "wk:page":"Kjenn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"d7a3edde8cac7aff371c00dbee4ef070",
+    "wof:geomhash":"9656b28836102e651cf737c5e9ebb9b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     10.95373,
     59.93098000000001
 ],
-  "geometry": {"coordinates":[10.95373,59.93098000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.95373,59.93098],"type":"Point"}
 }

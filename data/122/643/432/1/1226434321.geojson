@@ -46,7 +46,7 @@
         "wk:page":"Botnen%2C_Hordaland"
     },
     "wof:country":"NO",
-    "wof:geomhash":"7f0ce00357cf2822d2ca40cb3599080b",
+    "wof:geomhash":"9ca60cdd3cdddb841381eb00cf1a28c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     6.21667,
     60.46666999999999
 ],
-  "geometry": {"coordinates":[6.21667,60.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[6.21667,60.46667],"type":"Point"}
 }

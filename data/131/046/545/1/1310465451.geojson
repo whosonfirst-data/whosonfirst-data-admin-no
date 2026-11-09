@@ -64,7 +64,7 @@
         "wk:page":"Neslandsvatn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b39c50dcdb80ed956eccf2d58ebb20f1",
+    "wof:geomhash":"4924def5599f1cc66e8bfccbd6007d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     9.15626,
     58.97134000000001
 ],
-  "geometry": {"coordinates":[9.15626,58.97134000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.15626,58.97134],"type":"Point"}
 }

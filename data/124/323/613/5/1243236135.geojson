@@ -46,7 +46,7 @@
         "wk:page":"Hellandsj%C3%B8en"
     },
     "wof:country":"NO",
-    "wof:geomhash":"0a86cc776d8353b4d29abd39a06ae08e",
+    "wof:geomhash":"17c231ac836053c8e211e10e061c9498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     8.98096,
     63.40394000000001
 ],
-  "geometry": {"coordinates":[8.98096,63.40394000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.98096,63.40394],"type":"Point"}
 }

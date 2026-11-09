@@ -74,7 +74,7 @@
         "wk:page":"Finnbr%C3%A5ten"
     },
     "wof:country":"NO",
-    "wof:geomhash":"c01065255956fb8bb57c99e29e6a22de",
+    "wof:geomhash":"68d26b5739f3d2bf757904a6bf0d8856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     11.30402,
     60.33368000000001
 ],
-  "geometry": {"coordinates":[11.30402,60.33368000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.30402,60.33368],"type":"Point"}
 }

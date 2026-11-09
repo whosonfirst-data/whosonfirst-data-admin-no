@@ -52,7 +52,7 @@
         "wk:page":"Vikebygd"
     },
     "wof:country":"NO",
-    "wof:geomhash":"68edb758b79c33661f116776c2f00ec4",
+    "wof:geomhash":"bdd601f22a75cf45b5d8cf0fded089ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     5.58749,
     59.59441999999999
 ],
-  "geometry": {"coordinates":[5.58749,59.59441999999999],"type":"Point"}
+  "geometry": {"coordinates":[5.58749,59.59442],"type":"Point"}
 }

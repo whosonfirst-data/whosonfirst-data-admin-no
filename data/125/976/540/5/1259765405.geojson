@@ -67,7 +67,7 @@
         "wk:page":"Viggja"
     },
     "wof:country":"NO",
-    "wof:geomhash":"0438ff945c22a628a91f83fd07bffb74",
+    "wof:geomhash":"4766a7c496cac9671bfb744c3fafc04e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     9.99083,
     63.34523000000001
 ],
-  "geometry": {"coordinates":[9.99083,63.34523000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.99083,63.34523],"type":"Point"}
 }

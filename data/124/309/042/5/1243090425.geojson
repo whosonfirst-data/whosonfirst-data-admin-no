@@ -58,7 +58,7 @@
         "wk:page":"Kjelvik"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a97691eb717dd3be26ff08071a2923a8",
+    "wof:geomhash":"0ada035f9f49ffd5c001752a33f97e04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     26.11247,
     71.00218000000002
 ],
-  "geometry": {"coordinates":[26.11247,71.00218000000002],"type":"Point"}
+  "geometry": {"coordinates":[26.11247,71.00218],"type":"Point"}
 }

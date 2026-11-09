@@ -68,7 +68,7 @@
         "wk:page":"Aglapsvik"
     },
     "wof:country":"NO",
-    "wof:geomhash":"b8ead6d8caf826e819ae6e31f55b0910",
+    "wof:geomhash":"5b1efc423393b506eabbaa06228ed3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     18.21007,
     69.46236999999999
 ],
-  "geometry": {"coordinates":[18.21007,69.46236999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.21007,69.46237],"type":"Point"}
 }

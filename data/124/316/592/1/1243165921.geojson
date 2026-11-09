@@ -65,7 +65,7 @@
         "wk:page":"Otters%C3%B8ya"
     },
     "wof:country":"NO",
-    "wof:geomhash":"115916129af3260108ef08b76ba0623a",
+    "wof:geomhash":"89fa236e177e2f9ea087a37f6f51208a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     11.28807,
     64.85743000000001
 ],
-  "geometry": {"coordinates":[11.28807,64.85743000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.28807,64.85743],"type":"Point"}
 }

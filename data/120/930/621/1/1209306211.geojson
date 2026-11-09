@@ -59,7 +59,7 @@
         "wk:page":"Sundal"
     },
     "wof:country":"NO",
-    "wof:geomhash":"1c7143cb9572400a746b6ce2553742ce",
+    "wof:geomhash":"ccb426472d714869465394a67cbf54f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     6.28333,
     60.11666999999999
 ],
-  "geometry": {"coordinates":[6.28333,60.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[6.28333,60.11667],"type":"Point"}
 }

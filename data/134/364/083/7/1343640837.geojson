@@ -68,7 +68,7 @@
         "wk:page":"Heia_Station"
     },
     "wof:country":"NO",
-    "wof:geomhash":"12c22900f36d63f455c81656543df92e",
+    "wof:geomhash":"b4f7c54d6e8b9451d355b8c672099d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     11.33333,
     59.46666999999999
 ],
-  "geometry": {"coordinates":[11.33333,59.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[11.33333,59.46667],"type":"Point"}
 }

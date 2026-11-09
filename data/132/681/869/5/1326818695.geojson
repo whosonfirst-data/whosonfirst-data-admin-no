@@ -43,7 +43,7 @@
         "wk:page":"Egge%2C_Oppland"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a597e7a6652c045b246092d013f52ae5",
+    "wof:geomhash":"7ecc7f76ff07ad6b3fdc9c4b7f74b844",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     10.48333,
     60.43333000000001
 ],
-  "geometry": {"coordinates":[10.48333,60.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.48333,60.43333],"type":"Point"}
 }

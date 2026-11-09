@@ -51,7 +51,7 @@
         "wk:page":"Stokka"
     },
     "wof:country":"NO",
-    "wof:geomhash":"8207794cc5b35336de08b459a7437542",
+    "wof:geomhash":"20f0eecfc7e46d5e6ae4e330f30aed3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     5.71667,
     58.88333000000001
 ],
-  "geometry": {"coordinates":[5.71667,58.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.71667,58.88333],"type":"Point"}
 }

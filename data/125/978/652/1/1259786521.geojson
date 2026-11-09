@@ -59,7 +59,7 @@
         "wk:page":"Langeid"
     },
     "wof:country":"NO",
-    "wof:geomhash":"dc7d6598f7a207bbb40ab43723812052",
+    "wof:geomhash":"3c26e3363056eeeb53b55d139114783f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     7.53801,
     58.98918000000001
 ],
-  "geometry": {"coordinates":[7.53801,58.98918000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.53801,58.98918],"type":"Point"}
 }

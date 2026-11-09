@@ -46,7 +46,7 @@
         "wk:page":"Tjugum"
     },
     "wof:country":"NO",
-    "wof:geomhash":"e90c833d8713be4e420f1903f1322ef5",
+    "wof:geomhash":"e55e4de0e7cf6ca913f29cba4f52d7c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     6.55,
     61.21666999999999
 ],
-  "geometry": {"coordinates":[6.55,61.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[6.55,61.21667],"type":"Point"}
 }

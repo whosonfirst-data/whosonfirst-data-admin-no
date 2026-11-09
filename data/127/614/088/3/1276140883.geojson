@@ -55,7 +55,7 @@
         "wk:page":"Grytting"
     },
     "wof:country":"NO",
-    "wof:geomhash":"4cbf1d01107ffdba56ef87da3d8b3c69",
+    "wof:geomhash":"3b2a37c5c4ebbf951c2db5516a6005c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.1177,
     68.61055999999999
 ],
-  "geometry": {"coordinates":[15.1177,68.61055999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.1177,68.61056],"type":"Point"}
 }

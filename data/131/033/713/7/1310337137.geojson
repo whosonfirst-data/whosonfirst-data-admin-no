@@ -73,7 +73,7 @@
         "wk:page":"Skallelv"
     },
     "wof:country":"NO",
-    "wof:geomhash":"287cde6fe7a27596f2e75b7aa7b86071",
+    "wof:geomhash":"dec6ad2b2f60968d152e661642da5992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     30.33424,
     70.18921999999999
 ],
-  "geometry": {"coordinates":[30.33424,70.18921999999999],"type":"Point"}
+  "geometry": {"coordinates":[30.33424,70.18922],"type":"Point"}
 }

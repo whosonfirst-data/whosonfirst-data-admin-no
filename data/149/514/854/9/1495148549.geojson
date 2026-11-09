@@ -47,7 +47,7 @@
         "wk:page":"H%C3%A5rkollen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"9750e91a0178c98549a036803a7dcdeb",
+    "wof:geomhash":"a8c670c046f2b0b8bf6aa3c00e598cae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     10.44121,
     59.19983000000001
 ],
-  "geometry": {"coordinates":[10.44121,59.19983000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.44121,59.19983],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Brekkvasselv"
     },
     "wof:country":"NO",
-    "wof:geomhash":"cd15ba8fe600c7d43b196cab55de01fa",
+    "wof:geomhash":"f993a35326639ebf9653d229b4ab0b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     13.01794,
     64.84725999999999
 ],
-  "geometry": {"coordinates":[13.01794,64.84725999999999],"type":"Point"}
+  "geometry": {"coordinates":[13.01794,64.84726],"type":"Point"}
 }

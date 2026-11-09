@@ -64,7 +64,7 @@
         "wk:page":"Bomannsvik"
     },
     "wof:country":"NO",
-    "wof:geomhash":"5e98f7cf92c4300ec34cb75ce8d2d1e1",
+    "wof:geomhash":"6193dd1421d530dcb6ea9be7c716d963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     10.70531,
     59.79128000000001
 ],
-  "geometry": {"coordinates":[10.70531,59.79128000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.70531,59.79128],"type":"Point"}
 }

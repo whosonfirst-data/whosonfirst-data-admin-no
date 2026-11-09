@@ -52,7 +52,7 @@
         "wk:page":"Nordberg"
     },
     "wof:country":"NO",
-    "wof:geomhash":"de354aa97246c4bf81871a28a224be84",
+    "wof:geomhash":"bcf51396d680297e32e2ff0a1f16e603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     6.61667,
     58.13333000000001
 ],
-  "geometry": {"coordinates":[6.61667,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.61667,58.13333],"type":"Point"}
 }

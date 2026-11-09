@@ -52,7 +52,7 @@
         "wk:page":"Oggevatn"
     },
     "wof:country":"NO",
-    "wof:geomhash":"a4006293503339dfc08b687ea78e9a50",
+    "wof:geomhash":"d49f4a689c6a228b54d0b1129f87fc55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     8.11095,
     58.44479000000001
 ],
-  "geometry": {"coordinates":[8.11095,58.44479000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.11095,58.44479],"type":"Point"}
 }

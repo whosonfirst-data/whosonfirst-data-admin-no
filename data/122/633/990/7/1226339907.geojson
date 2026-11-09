@@ -55,7 +55,7 @@
         "wk:page":"T%C3%B8rberget"
     },
     "wof:country":"NO",
-    "wof:geomhash":"1c998d287d1ff9e1c2b7bb78592502fa",
+    "wof:geomhash":"45e823f3c950f917e2129f916625d82d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     12.1,
     61.13333000000001
 ],
-  "geometry": {"coordinates":[12.1,61.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.1,61.13333],"type":"Point"}
 }

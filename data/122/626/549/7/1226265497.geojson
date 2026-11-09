@@ -65,7 +65,7 @@
         "wk:page":"Sl%C3%A5tten"
     },
     "wof:country":"NO",
-    "wof:geomhash":"91a1608ded88b9da5965ed7946837e52",
+    "wof:geomhash":"90a10ba008a30fbc4c8f087f4fb74188",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     24.54861,
     70.75305999999998
 ],
-  "geometry": {"coordinates":[24.54861,70.75305999999998],"type":"Point"}
+  "geometry": {"coordinates":[24.54861,70.75306],"type":"Point"}
 }

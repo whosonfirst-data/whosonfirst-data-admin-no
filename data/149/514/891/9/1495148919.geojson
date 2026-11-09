@@ -47,7 +47,7 @@
         "wk:page":"Skjold%2C_Bergen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"de9bfdad07dac3be4b6f959094a3295c",
+    "wof:geomhash":"d80f98aeab0e4fbc067bd5c468c1c3c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     5.34356,
     60.30863000000001
 ],
-  "geometry": {"coordinates":[5.34356,60.30863000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.34356,60.30863],"type":"Point"}
 }

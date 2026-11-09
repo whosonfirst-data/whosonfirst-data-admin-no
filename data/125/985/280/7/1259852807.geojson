@@ -55,7 +55,7 @@
         "wk:page":"Fresvik"
     },
     "wof:country":"NO",
-    "wof:geomhash":"fc200bb99b63ead63e1f53fb69759b38",
+    "wof:geomhash":"4d6826bcca75e4a594863fd9da2e8615",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     6.93416,
     61.07228000000001
 ],
-  "geometry": {"coordinates":[6.93416,61.07228000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.93416,61.07228],"type":"Point"}
 }

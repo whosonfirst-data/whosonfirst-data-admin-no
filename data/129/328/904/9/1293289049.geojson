@@ -76,7 +76,7 @@
         "wk:page":"Oppeid"
     },
     "wof:country":"NO",
-    "wof:geomhash":"f001f61cec43722f736c135c50144008",
+    "wof:geomhash":"ceedaee4dcb9086eef8f05b8910ba0f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     15.60942,
     68.08521999999999
 ],
-  "geometry": {"coordinates":[15.60942,68.08521999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.60942,68.08522],"type":"Point"}
 }

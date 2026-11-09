@@ -46,7 +46,7 @@
         "wk:page":"Leira%2C_S%C3%B8r-Tr%C3%B8ndelag"
     },
     "wof:country":"NO",
-    "wof:geomhash":"3c03d8feab0ce6e04031711f160370c4",
+    "wof:geomhash":"376f78a6a73d75d7d79739e967d71476",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     10.00067,
     63.59999000000001
 ],
-  "geometry": {"coordinates":[10.00067,63.59999000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.00067,63.59999],"type":"Point"}
 }

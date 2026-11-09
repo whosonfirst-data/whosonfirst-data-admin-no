@@ -52,7 +52,7 @@
         "wk:page":"Gautestad"
     },
     "wof:country":"NO",
-    "wof:geomhash":"455cbb7ea5af9014978bd34c62b70cc5",
+    "wof:geomhash":"d99132ee5e3bcdbeb34192dc6521110b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     11.3,
     59.38333000000001
 ],
-  "geometry": {"coordinates":[11.3,59.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.3,59.38333],"type":"Point"}
 }

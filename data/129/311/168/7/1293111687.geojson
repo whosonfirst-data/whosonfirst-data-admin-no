@@ -52,7 +52,7 @@
         "wk:page":"Homdrom"
     },
     "wof:country":"NO",
-    "wof:geomhash":"276cd894afe36df522085967bd37640b",
+    "wof:geomhash":"03316f8d3c6eec7eb43ed8a5b62dc935",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     8.3973,
     58.83383000000001
 ],
-  "geometry": {"coordinates":[8.3973,58.83383000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.3973,58.83383],"type":"Point"}
 }

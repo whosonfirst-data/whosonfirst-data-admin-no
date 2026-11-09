@@ -52,7 +52,7 @@
         "wk:page":"Rugsund"
     },
     "wof:country":"NO",
-    "wof:geomhash":"e43c61b91db05f5cb0029ff736016da6",
+    "wof:geomhash":"0cdd05a8e2efab7ba9ff085606787298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     5.33333,
     61.88333000000001
 ],
-  "geometry": {"coordinates":[5.33333,61.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.33333,61.88333],"type":"Point"}
 }

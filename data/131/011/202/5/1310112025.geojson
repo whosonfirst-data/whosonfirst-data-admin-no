@@ -71,7 +71,7 @@
         "wk:page":"Haugsbygd"
     },
     "wof:country":"NO",
-    "wof:geomhash":"5231e84cbe8ec28a07abfe4a76a998dc",
+    "wof:geomhash":"7673087882c97c2917113c7e5ef3cdca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     10.32148,
     60.16164000000001
 ],
-  "geometry": {"coordinates":[10.32148,60.16164000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.32148,60.16164],"type":"Point"}
 }
