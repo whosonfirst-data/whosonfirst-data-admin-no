@@ -42,7 +42,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296989,
+        1527971123,
         85633341,
         1495115971
     ],
@@ -56,7 +56,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296989,
+            "localadmin_id":1527971123,
             "locality_id":1343927481,
             "region_id":1495115971
         }
@@ -64,7 +64,7 @@
     "wof:id":1343927481,
     "wof:lastmodified":1571393033,
     "wof:name":"Selnes",
-    "wof:parent_id":1159296989,
+    "wof:parent_id":1527971123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

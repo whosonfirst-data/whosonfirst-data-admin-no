@@ -39,7 +39,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297117,
+        1527971123,
         85633341,
         1495115971
     ],
@@ -53,7 +53,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297117,
+            "localadmin_id":1527971123,
             "locality_id":1243236211,
             "region_id":1495115971
         }
@@ -61,7 +61,7 @@
     "wof:id":1243236211,
     "wof:lastmodified":1571392994,
     "wof:name":"Selvnes",
-    "wof:parent_id":1159297117,
+    "wof:parent_id":1527971123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

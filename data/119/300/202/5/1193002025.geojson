@@ -45,7 +45,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296895,
+        1527971119,
         85633341,
         1495115971
     ],
@@ -59,7 +59,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296895,
+            "localadmin_id":1527971119,
             "locality_id":1193002025,
             "region_id":1495115971
         }
@@ -67,7 +67,7 @@
     "wof:id":1193002025,
     "wof:lastmodified":1571392943,
     "wof:name":"Borgan",
-    "wof:parent_id":1159296895,
+    "wof:parent_id":1527971119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

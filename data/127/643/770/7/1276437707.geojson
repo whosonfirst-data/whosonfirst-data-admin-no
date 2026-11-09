@@ -36,7 +36,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297421,
+        1527971081,
         85633341,
         85687123
     ],
@@ -50,7 +50,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297421,
+            "localadmin_id":1527971081,
             "locality_id":1276437707,
             "region_id":85687123
         }
@@ -58,7 +58,7 @@
     "wof:id":1276437707,
     "wof:lastmodified":1571381512,
     "wof:name":"Norvik",
-    "wof:parent_id":1159297421,
+    "wof:parent_id":1527971081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

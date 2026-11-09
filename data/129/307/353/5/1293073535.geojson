@@ -38,7 +38,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296725,
+        1527971127,
         85633341,
         1495115971
     ],
@@ -52,7 +52,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296725,
+            "localadmin_id":1527971127,
             "locality_id":1293073535,
             "region_id":1495115971
         }
@@ -60,7 +60,7 @@
     "wof:id":1293073535,
     "wof:lastmodified":1571393050,
     "wof:name":"Heimsjoen",
-    "wof:parent_id":1159296725,
+    "wof:parent_id":1527971127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

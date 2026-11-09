@@ -45,7 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159296865,
+        1527971091,
         85633341,
         85687123
     ],
@@ -61,7 +61,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296865,
+            "localadmin_id":1527971091,
             "locality_id":1125829265,
             "region_id":85687123
         }
@@ -69,7 +69,7 @@
     "wof:id":1125829265,
     "wof:lastmodified":1571388216,
     "wof:name":"Storekalv\u00f8y",
-    "wof:parent_id":1159296865,
+    "wof:parent_id":1527971091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -45,7 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159296985,
+        1527971137,
         85633341,
         85687085
     ],
@@ -61,7 +61,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296985,
+            "localadmin_id":1527971137,
             "locality_id":1125819291,
             "region_id":85687085
         }
@@ -69,7 +69,7 @@
     "wof:id":1125819291,
     "wof:lastmodified":1571679438,
     "wof:name":"Vestre \u00c5m\u00f8y",
-    "wof:parent_id":1159296985,
+    "wof:parent_id":1527971137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -29,9 +29,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297031,
+        1527971105,
         85633341,
-        85687113
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297031,
+            "localadmin_id":1527971105,
             "locality_id":1193248883,
-            "region_id":85687113
+            "region_id":1527947261
         }
     ],
     "wof:id":1193248883,
     "wof:lastmodified":1571384003,
     "wof:name":"Strynesaetra",
-    "wof:parent_id":1159297031,
+    "wof:parent_id":1527971105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

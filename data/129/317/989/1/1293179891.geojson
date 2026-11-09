@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296829,
+        1527971137,
         85633341,
         85687085
     ],
@@ -47,7 +47,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296829,
+            "localadmin_id":1527971137,
             "locality_id":1293179891,
             "region_id":85687085
         }
@@ -55,7 +55,7 @@
     "wof:id":1293179891,
     "wof:lastmodified":1571679455,
     "wof:name":"Mjolsnes",
-    "wof:parent_id":1159296829,
+    "wof:parent_id":1527971137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

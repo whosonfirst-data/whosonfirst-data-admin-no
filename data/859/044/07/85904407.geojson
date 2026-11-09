@@ -81,7 +81,7 @@
     "wd:wordcount":195,
     "wof:belongsto":[
         102191581,
-        1159297145,
+        1527971011,
         85633341,
         1495123981,
         1495115971
@@ -102,7 +102,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297145,
+            "localadmin_id":1527971011,
             "locality_id":1495123981,
             "neighbourhood_id":85904407,
             "region_id":1495115971

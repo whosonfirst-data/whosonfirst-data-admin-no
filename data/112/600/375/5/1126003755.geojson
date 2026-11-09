@@ -41,7 +41,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297499,
+        1527971093,
         85633341,
         85687123
     ],
@@ -57,7 +57,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297499,
+            "localadmin_id":1527971093,
             "locality_id":1126003755,
             "region_id":85687123
         }
@@ -65,7 +65,7 @@
     "wof:id":1126003755,
     "wof:lastmodified":1571388092,
     "wof:name":"\u00c5rset",
-    "wof:parent_id":1159297499,
+    "wof:parent_id":1527971093,
     "wof:placetype":"locality",
     "wof:population":472,
     "wof:population_rank":2,

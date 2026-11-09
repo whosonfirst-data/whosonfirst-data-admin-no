@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297337,
+        1527971099,
         85633341,
         85687123
     ],
@@ -47,7 +47,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297337,
+            "localadmin_id":1527971099,
             "locality_id":1209400401,
             "region_id":85687123
         }
@@ -55,7 +55,7 @@
     "wof:id":1209400401,
     "wof:lastmodified":1571383192,
     "wof:name":"Skotten",
-    "wof:parent_id":1159297337,
+    "wof:parent_id":1527971099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

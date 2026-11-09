@@ -36,7 +36,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297077,
+        1528041083,
         85633341,
         1495115971
     ],
@@ -50,7 +50,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297077,
+            "localadmin_id":1528041083,
             "locality_id":1276215809,
             "region_id":1495115971
         }
@@ -58,7 +58,7 @@
     "wof:id":1276215809,
     "wof:lastmodified":1571393041,
     "wof:name":"Solbakken",
-    "wof:parent_id":1159297077,
+    "wof:parent_id":1528041083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

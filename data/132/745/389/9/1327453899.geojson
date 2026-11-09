@@ -60,7 +60,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296927,
+        1527971091,
         85633341,
         85687123
     ],
@@ -74,7 +74,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296927,
+            "localadmin_id":1527971091,
             "locality_id":1327453899,
             "region_id":85687123
         }
@@ -82,7 +82,7 @@
     "wof:id":1327453899,
     "wof:lastmodified":1571355963,
     "wof:name":"Ona",
-    "wof:parent_id":1159296927,
+    "wof:parent_id":1527971091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

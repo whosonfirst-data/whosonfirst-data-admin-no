@@ -59,7 +59,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297219,
+        1527971091,
         85633341,
         85687123
     ],
@@ -76,7 +76,7 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297219,
+            "localadmin_id":1527971091,
             "locality_id":1125968619,
             "region_id":85687123
         }
@@ -84,7 +84,7 @@
     "wof:id":1125968619,
     "wof:lastmodified":1571387788,
     "wof:name":"N\u00f8rvesund",
-    "wof:parent_id":1159297219,
+    "wof:parent_id":1527971091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
