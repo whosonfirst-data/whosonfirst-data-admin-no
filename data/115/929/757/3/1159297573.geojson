@@ -142,12 +142,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Lom"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6d1b\u59c6\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6d1b\u59c6\u6cb3"
-    ],
     "no-geonorge:kommunenum":3434,
     "reversegeo:latitude":61.748232,
     "reversegeo:longitude":8.609089,
@@ -191,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1695878896,
+    "wof:lastmodified":1794999722,
     "wof:name":"Lom",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",
