@@ -32,7 +32,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1527971019,
         85633341,
@@ -51,11 +51,11 @@
             "localadmin_id":1527971019,
             "locality_id":1495124053,
             "neighbourhood_id":1495148599,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495148599,
-    "wof:lastmodified":1581020320,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kjellerholen",
     "wof:parent_id":1495124053,
     "wof:placetype":"neighbourhood",

@@ -32,7 +32,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1159297345,
         85633341,
@@ -51,11 +51,11 @@
             "localadmin_id":1159297345,
             "locality_id":101803979,
             "neighbourhood_id":1495148099,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495148099,
-    "wof:lastmodified":1581020316,
+    "wof:lastmodified":1795728998,
     "wof:name":"Smorgrav",
     "wof:parent_id":101803979,
     "wof:placetype":"neighbourhood",

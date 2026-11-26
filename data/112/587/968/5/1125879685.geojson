@@ -56,7 +56,7 @@
         102191581,
         1527971079,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,11 +73,11 @@
             "country_id":85633341,
             "localadmin_id":1527971079,
             "locality_id":1125879685,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1125879685,
-    "wof:lastmodified":1581019648,
+    "wof:lastmodified":1795728998,
     "wof:name":"Hjukse",
     "wof:parent_id":1527971079,
     "wof:placetype":"locality",

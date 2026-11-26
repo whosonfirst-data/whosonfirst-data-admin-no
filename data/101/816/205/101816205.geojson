@@ -172,7 +172,7 @@
         102191581,
         1159296869,
         85633341,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -193,14 +193,14 @@
             "country_id":85633341,
             "localadmin_id":1159296869,
             "locality_id":101816205,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":101816205,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849361,
+    "wof:lastmodified":1795728998,
     "wof:name":"Rakkestad",
     "wof:parent_id":1159296869,
     "wof:placetype":"locality",

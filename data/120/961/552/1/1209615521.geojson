@@ -40,7 +40,7 @@
         102191581,
         1159297471,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +54,11 @@
             "country_id":85633341,
             "localadmin_id":1159297471,
             "locality_id":1209615521,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1209615521,
-    "wof:lastmodified":1581020190,
+    "wof:lastmodified":1795728998,
     "wof:name":"Fagerheim",
     "wof:parent_id":1159297471,
     "wof:placetype":"locality",

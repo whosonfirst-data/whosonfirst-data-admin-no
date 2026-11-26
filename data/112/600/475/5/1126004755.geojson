@@ -74,7 +74,7 @@
         102191581,
         1159297221,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +91,11 @@
             "country_id":85633341,
             "localadmin_id":1159297221,
             "locality_id":1126004755,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1126004755,
-    "wof:lastmodified":1690849576,
+    "wof:lastmodified":1795728998,
     "wof:name":"Bomansvik",
     "wof:parent_id":1159297221,
     "wof:placetype":"locality",

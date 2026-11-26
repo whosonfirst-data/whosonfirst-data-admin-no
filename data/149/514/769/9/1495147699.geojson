@@ -88,7 +88,7 @@
     "woe:name_adm1":"Buskerud Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1527971109,
         85633341,
@@ -111,11 +111,11 @@
             "localadmin_id":1527971109,
             "locality_id":1495123973,
             "neighbourhood_id":1495147699,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495147699,
-    "wof:lastmodified":1581020312,
+    "wof:lastmodified":1795728998,
     "wof:name":"Konnerud",
     "wof:parent_id":1495123973,
     "wof:placetype":"neighbourhood",

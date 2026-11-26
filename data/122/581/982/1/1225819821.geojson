@@ -62,7 +62,7 @@
         102191581,
         1159297193,
         85633341,
-        1527947267
+        9895008353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +76,11 @@
             "country_id":85633341,
             "localadmin_id":1159297193,
             "locality_id":1225819821,
-            "region_id":1527947267
+            "region_id":9895008353
         }
     ],
     "wof:id":1225819821,
-    "wof:lastmodified":1581019624,
+    "wof:lastmodified":1795728998,
     "wof:name":"Torp",
     "wof:parent_id":1159297193,
     "wof:placetype":"locality",

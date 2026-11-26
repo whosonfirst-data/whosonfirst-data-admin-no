@@ -86,7 +86,7 @@
         1527971109,
         85633341,
         1125895001,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,11 +105,11 @@
             "localadmin_id":1527971109,
             "locality_id":1125895001,
             "neighbourhood_id":1495148763,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495148763,
-    "wof:lastmodified":1690849650,
+    "wof:lastmodified":1795728998,
     "wof:name":"Krokstadelva",
     "wof:parent_id":1125895001,
     "wof:placetype":"neighbourhood",

@@ -655,7 +655,7 @@
         102191581,
         1159297009,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -673,11 +673,11 @@
             "country_id":85633341,
             "localadmin_id":1159297009,
             "locality_id":1125926385,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1125926385,
-    "wof:lastmodified":1690849481,
+    "wof:lastmodified":1795728998,
     "wof:name":"Stabekk",
     "wof:parent_id":1159297009,
     "wof:placetype":"locality",

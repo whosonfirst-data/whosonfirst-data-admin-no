@@ -26,7 +26,7 @@
         102191581,
         1159297185,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:country":"NO",
@@ -37,11 +37,11 @@
             "country_id":85633341,
             "localadmin_id":1159297185,
             "locality_id":1495157489,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495157489,
-    "wof:lastmodified":1581020206,
+    "wof:lastmodified":1795728998,
     "wof:name":"Raelingen",
     "wof:parent_id":1159297185,
     "wof:placetype":"locality",

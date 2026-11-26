@@ -60,7 +60,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1159297385,
         85633341,
@@ -80,11 +80,11 @@
             "localadmin_id":1159297385,
             "locality_id":101816213,
             "neighbourhood_id":1495148361,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495148361,
-    "wof:lastmodified":1581020317,
+    "wof:lastmodified":1795728998,
     "wof:name":"Skiviken",
     "wof:parent_id":101816213,
     "wof:placetype":"neighbourhood",

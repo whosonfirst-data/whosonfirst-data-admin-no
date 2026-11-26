@@ -41,7 +41,7 @@
         102191581,
         1159297359,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +55,11 @@
             "country_id":85633341,
             "localadmin_id":1159297359,
             "locality_id":1276738589,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1276738589,
-    "wof:lastmodified":1581017474,
+    "wof:lastmodified":1795728998,
     "wof:name":"Aroybukt",
     "wof:parent_id":1159297359,
     "wof:placetype":"locality",

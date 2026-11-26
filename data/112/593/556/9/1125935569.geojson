@@ -61,7 +61,7 @@
         102191581,
         85633341,
         1159297187,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +78,11 @@
             "country_id":85633341,
             "localadmin_id":1159297187,
             "locality_id":1125935569,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1125935569,
-    "wof:lastmodified":1614816199,
+    "wof:lastmodified":1795728998,
     "wof:name":"Skjelnan",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",

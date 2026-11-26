@@ -69,7 +69,7 @@
         1527971109,
         85633341,
         1495123973,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,14 +90,14 @@
             "localadmin_id":1527971109,
             "locality_id":1495123973,
             "neighbourhood_id":85901561,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":85901561,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313537,
+    "wof:lastmodified":1795728998,
     "wof:name":"Br\u00e5tan",
     "wof:parent_id":1495123973,
     "wof:placetype":"neighbourhood",

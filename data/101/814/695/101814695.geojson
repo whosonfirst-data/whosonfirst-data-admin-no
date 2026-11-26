@@ -183,7 +183,7 @@
         102191581,
         1159297287,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,14 +208,14 @@
             "country_id":85633341,
             "localadmin_id":1159297287,
             "locality_id":101814695,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":101814695,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849440,
+    "wof:lastmodified":1795728998,
     "wof:name":"Honningsv\u00e5g",
     "wof:parent_id":1159297287,
     "wof:placetype":"locality",

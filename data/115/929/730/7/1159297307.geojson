@@ -63,7 +63,7 @@
     "wof:belongsto":[
         102191581,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +82,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297307,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1159297307,
@@ -95,9 +95,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1695878877,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kv\u00e6nangen",
-    "wof:parent_id":1527947259,
+    "wof:parent_id":9895008355,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:population":1191,

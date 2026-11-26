@@ -38,7 +38,7 @@
         102191581,
         1159296965,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +52,11 @@
             "country_id":85633341,
             "localadmin_id":1159296965,
             "locality_id":1242754239,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1242754239,
-    "wof:lastmodified":1581019652,
+    "wof:lastmodified":1795728998,
     "wof:name":"Sundbogrendi",
     "wof:parent_id":1159296965,
     "wof:placetype":"locality",

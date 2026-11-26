@@ -199,7 +199,7 @@
         102191581,
         1159297427,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -220,14 +220,14 @@
             "country_id":85633341,
             "localadmin_id":1159297427,
             "locality_id":101814691,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":101814691,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849452,
+    "wof:lastmodified":1795728998,
     "wof:name":"Berlev\u00e5g",
     "wof:parent_id":1159297427,
     "wof:placetype":"locality",

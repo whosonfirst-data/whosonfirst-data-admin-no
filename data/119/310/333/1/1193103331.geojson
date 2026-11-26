@@ -51,7 +51,7 @@
         102191581,
         1159297451,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +65,11 @@
             "country_id":85633341,
             "localadmin_id":1159297451,
             "locality_id":1193103331,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1193103331,
-    "wof:lastmodified":1581017368,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tofta",
     "wof:parent_id":1159297451,
     "wof:placetype":"locality",

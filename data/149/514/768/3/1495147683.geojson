@@ -48,7 +48,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947259,
+        9895008355,
         102191581,
         1527971089,
         85633341,
@@ -68,11 +68,11 @@
             "localadmin_id":1527971089,
             "locality_id":101814659,
             "neighbourhood_id":1495147683,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1495147683,
-    "wof:lastmodified":1581017537,
+    "wof:lastmodified":1795728998,
     "wof:name":"Laukhella",
     "wof:parent_id":101814659,
     "wof:placetype":"neighbourhood",

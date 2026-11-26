@@ -41,7 +41,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1159296937,
         85633341,
@@ -60,11 +60,11 @@
             "localadmin_id":1159296937,
             "locality_id":101815567,
             "neighbourhood_id":1495147837,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495147837,
-    "wof:lastmodified":1581020313,
+    "wof:lastmodified":1795728998,
     "wof:name":"Ovenstadlia",
     "wof:parent_id":101815567,
     "wof:placetype":"neighbourhood",

@@ -79,7 +79,7 @@
         102191581,
         1159297627,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,11 +96,11 @@
             "country_id":85633341,
             "localadmin_id":1159297627,
             "locality_id":1125922539,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1125922539,
-    "wof:lastmodified":1581020198,
+    "wof:lastmodified":1795728998,
     "wof:name":"Nordby",
     "wof:parent_id":1159297627,
     "wof:placetype":"locality",

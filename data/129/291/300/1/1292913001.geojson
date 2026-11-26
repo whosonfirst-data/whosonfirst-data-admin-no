@@ -134,7 +134,7 @@
         102191581,
         1159297185,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,11 +148,11 @@
             "country_id":85633341,
             "localadmin_id":1159297185,
             "locality_id":1292913001,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1292913001,
-    "wof:lastmodified":1581020255,
+    "wof:lastmodified":1795728998,
     "wof:name":"Vestby",
     "wof:parent_id":1159297185,
     "wof:placetype":"locality",

@@ -215,7 +215,7 @@
         102191581,
         1159296815,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -235,11 +235,11 @@
             "country_id":85633341,
             "localadmin_id":1159296815,
             "locality_id":1126009959,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1126009959,
-    "wof:lastmodified":1690849574,
+    "wof:lastmodified":1795728998,
     "wof:name":"L\u00f8renskog",
     "wof:parent_id":1159296815,
     "wof:placetype":"locality",

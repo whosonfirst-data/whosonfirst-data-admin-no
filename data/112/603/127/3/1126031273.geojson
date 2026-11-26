@@ -188,7 +188,7 @@
         102191581,
         1159296941,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,11 +206,11 @@
             "country_id":85633341,
             "localadmin_id":1159296941,
             "locality_id":1126031273,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1126031273,
-    "wof:lastmodified":1690849500,
+    "wof:lastmodified":1795728998,
     "wof:name":"Gjerdrum",
     "wof:parent_id":1159296941,
     "wof:placetype":"locality",

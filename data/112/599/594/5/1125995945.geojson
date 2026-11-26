@@ -82,7 +82,7 @@
         102191581,
         1527971019,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,11 +100,11 @@
             "country_id":85633341,
             "localadmin_id":1527971019,
             "locality_id":1125995945,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1125995945,
-    "wof:lastmodified":1690849536,
+    "wof:lastmodified":1795728998,
     "wof:name":"Sk\u00e5rer",
     "wof:parent_id":1527971019,
     "wof:placetype":"locality",

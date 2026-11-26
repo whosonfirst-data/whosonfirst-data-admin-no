@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159296815,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1159296815,
             "locality_id":1126009959,
             "neighbourhood_id":1495148639,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495148639,
-    "wof:lastmodified":1581020320,
+    "wof:lastmodified":1795728998,
     "wof:name":"Ilajordet",
     "wof:parent_id":1126009959,
     "wof:placetype":"neighbourhood",

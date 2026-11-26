@@ -38,7 +38,7 @@
         102191581,
         1159296761,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +52,11 @@
             "country_id":85633341,
             "localadmin_id":1159296761,
             "locality_id":1209277607,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1209277607,
-    "wof:lastmodified":1581017476,
+    "wof:lastmodified":1795728998,
     "wof:name":"Perteng",
     "wof:parent_id":1159296761,
     "wof:placetype":"locality",

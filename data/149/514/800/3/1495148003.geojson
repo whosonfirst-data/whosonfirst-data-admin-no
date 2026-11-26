@@ -38,7 +38,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947259,
+        9895008356,
         102191581,
         1527971095,
         85633341,
@@ -57,11 +57,11 @@
             "localadmin_id":1527971095,
             "locality_id":101814707,
             "neighbourhood_id":1495148003,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1495148003,
-    "wof:lastmodified":1581017538,
+    "wof:lastmodified":1795728998,
     "wof:name":"i Fjorden",
     "wof:parent_id":101814707,
     "wof:placetype":"neighbourhood",

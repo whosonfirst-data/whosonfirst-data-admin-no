@@ -55,7 +55,7 @@
     "wof:belongsto":[
         102191581,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1527971069,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1527971069,
@@ -91,9 +91,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1695878907,
+    "wof:lastmodified":1795728998,
     "wof:name":"Midt-Telemark",
-    "wof:parent_id":1527947267,
+    "wof:parent_id":9895008354,
     "wof:placetype":"localadmin",
     "wof:population":10444,
     "wof:population_rank":6,

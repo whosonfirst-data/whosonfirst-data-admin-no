@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1527971111,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1527971111,
             "locality_id":101816203,
             "neighbourhood_id":1495148275,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495148275,
-    "wof:lastmodified":1581020316,
+    "wof:lastmodified":1795728998,
     "wof:name":"Gjerrebogen",
     "wof:parent_id":101816203,
     "wof:placetype":"neighbourhood",

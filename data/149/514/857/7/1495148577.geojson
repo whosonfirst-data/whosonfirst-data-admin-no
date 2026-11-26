@@ -50,7 +50,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1159297543,
         85633341,
@@ -69,11 +69,11 @@
             "localadmin_id":1159297543,
             "locality_id":1125837795,
             "neighbourhood_id":1495148577,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495148577,
-    "wof:lastmodified":1581020306,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tune",
     "wof:parent_id":1125837795,
     "wof:placetype":"neighbourhood",

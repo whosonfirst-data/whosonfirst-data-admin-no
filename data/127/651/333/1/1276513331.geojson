@@ -41,7 +41,7 @@
         102191581,
         1159297319,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +56,11 @@
             "country_id":85633341,
             "localadmin_id":1159297319,
             "locality_id":1276513331,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1276513331,
-    "wof:lastmodified":1581017345,
+    "wof:lastmodified":1795728998,
     "wof:name":"Holm",
     "wof:parent_id":1159297319,
     "wof:placetype":"locality",

@@ -33,7 +33,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947259,
+        9895008356,
         102191581,
         1159296893,
         85633341,
@@ -52,11 +52,11 @@
             "localadmin_id":1159296893,
             "locality_id":101814717,
             "neighbourhood_id":1495148367,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1495148367,
-    "wof:lastmodified":1581017538,
+    "wof:lastmodified":1795728998,
     "wof:name":"Gakori",
     "wof:parent_id":101814717,
     "wof:placetype":"neighbourhood",

@@ -49,7 +49,7 @@
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159297627,
         85633341,
@@ -71,11 +71,11 @@
             "localadmin_id":1159297627,
             "locality_id":101839449,
             "neighbourhood_id":1495147583,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495147583,
-    "wof:lastmodified":1581020311,
+    "wof:lastmodified":1795728998,
     "wof:name":"Solberg",
     "wof:parent_id":101839449,
     "wof:placetype":"neighbourhood",

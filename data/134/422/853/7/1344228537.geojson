@@ -68,7 +68,7 @@
         102191581,
         1159297269,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +82,11 @@
             "country_id":85633341,
             "localadmin_id":1159297269,
             "locality_id":1344228537,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1344228537,
-    "wof:lastmodified":1581019623,
+    "wof:lastmodified":1795728998,
     "wof:name":"Fagerstrand",
     "wof:parent_id":1159297269,
     "wof:placetype":"locality",

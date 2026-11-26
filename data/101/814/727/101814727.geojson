@@ -92,7 +92,7 @@
         102191581,
         1159296751,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,11 +113,11 @@
             "country_id":85633341,
             "localadmin_id":1159296751,
             "locality_id":101814727,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":101814727,
-    "wof:lastmodified":1582313601,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tana Bru",
     "wof:parent_id":1159296751,
     "wof:placetype":"locality",

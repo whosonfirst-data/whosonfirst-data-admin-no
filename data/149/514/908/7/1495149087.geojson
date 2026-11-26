@@ -54,7 +54,7 @@
         85633341,
         1159297627,
         101839449,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +72,11 @@
             "localadmin_id":1159297627,
             "locality_id":101839449,
             "neighbourhood_id":1495149087,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495149087,
-    "wof:lastmodified":1693265425,
+    "wof:lastmodified":1795728998,
     "wof:name":"Vinterbro",
     "wof:parent_id":101839449,
     "wof:placetype":"neighbourhood",

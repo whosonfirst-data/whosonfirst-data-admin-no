@@ -29,7 +29,7 @@
         102191581,
         85633341,
         1527971109,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -44,11 +44,11 @@
             "country_id":85633341,
             "localadmin_id":1527971109,
             "locality_id":1495123973,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495123973,
-    "wof:lastmodified":1607462724,
+    "wof:lastmodified":1795728998,
     "wof:name":"Drammen",
     "wof:parent_id":1527971109,
     "wof:placetype":"locality",

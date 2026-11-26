@@ -48,7 +48,7 @@
         102191581,
         1159297071,
         85633341,
-        1527947267
+        9895008353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +63,11 @@
             "country_id":85633341,
             "localadmin_id":1159297071,
             "locality_id":1326591735,
-            "region_id":1527947267
+            "region_id":9895008353
         }
     ],
     "wof:id":1326591735,
-    "wof:lastmodified":1581019686,
+    "wof:lastmodified":1795728998,
     "wof:name":"Nesbrygga",
     "wof:parent_id":1159297071,
     "wof:placetype":"locality",

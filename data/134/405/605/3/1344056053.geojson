@@ -50,7 +50,7 @@
         102191581,
         1159297403,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +64,11 @@
             "country_id":85633341,
             "localadmin_id":1159297403,
             "locality_id":1344056053,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1344056053,
-    "wof:lastmodified":1581017501,
+    "wof:lastmodified":1795728998,
     "wof:name":"Goalsevuohppi",
     "wof:parent_id":1159297403,
     "wof:placetype":"locality",

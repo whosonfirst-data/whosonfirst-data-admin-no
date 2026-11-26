@@ -139,7 +139,7 @@
         102191581,
         1159296837,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,11 +160,11 @@
             "country_id":85633341,
             "localadmin_id":1159296837,
             "locality_id":1125946349,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1125946349,
-    "wof:lastmodified":1690849464,
+    "wof:lastmodified":1795728998,
     "wof:name":"Langesund",
     "wof:parent_id":1159296837,
     "wof:placetype":"locality",

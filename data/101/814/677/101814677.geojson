@@ -96,7 +96,7 @@
         102191581,
         1159297593,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,14 +115,14 @@
             "country_id":85633341,
             "localadmin_id":1159297593,
             "locality_id":101814677,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":101814677,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849450,
+    "wof:lastmodified":1795728998,
     "wof:name":"S\u00f8rkjosen",
     "wof:parent_id":1159297593,
     "wof:placetype":"locality",

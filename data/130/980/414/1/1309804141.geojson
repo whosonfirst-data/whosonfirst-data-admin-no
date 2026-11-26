@@ -68,7 +68,7 @@
         102191581,
         1159297255,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +82,11 @@
             "country_id":85633341,
             "localadmin_id":1159297255,
             "locality_id":1309804141,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1309804141,
-    "wof:lastmodified":1581020211,
+    "wof:lastmodified":1795728998,
     "wof:name":"Haugen",
     "wof:parent_id":1159297255,
     "wof:placetype":"locality",

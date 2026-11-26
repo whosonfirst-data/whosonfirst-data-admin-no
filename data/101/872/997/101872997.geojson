@@ -102,7 +102,7 @@
         102191581,
         1527971089,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,14 +125,14 @@
             "country_id":85633341,
             "localadmin_id":1527971089,
             "locality_id":101872997,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":101872997,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849367,
+    "wof:lastmodified":1795728998,
     "wof:name":"Gryllefjord",
     "wof:parent_id":1527971089,
     "wof:placetype":"locality",

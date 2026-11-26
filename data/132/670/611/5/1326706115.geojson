@@ -56,7 +56,7 @@
         102191581,
         1159297199,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,11 +70,11 @@
             "country_id":85633341,
             "localadmin_id":1159297199,
             "locality_id":1326706115,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1326706115,
-    "wof:lastmodified":1581017429,
+    "wof:lastmodified":1795728998,
     "wof:name":"Dalen",
     "wof:parent_id":1159297199,
     "wof:placetype":"locality",

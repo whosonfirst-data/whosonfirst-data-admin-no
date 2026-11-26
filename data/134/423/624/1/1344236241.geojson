@@ -35,7 +35,7 @@
         102191581,
         1159297543,
         85633341,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +49,11 @@
             "country_id":85633341,
             "localadmin_id":1159297543,
             "locality_id":1344236241,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1344236241,
-    "wof:lastmodified":1581020118,
+    "wof:lastmodified":1795728998,
     "wof:name":"Jorstad",
     "wof:parent_id":1159297543,
     "wof:placetype":"locality",

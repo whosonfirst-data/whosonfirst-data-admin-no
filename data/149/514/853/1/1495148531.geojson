@@ -73,7 +73,7 @@
     "woe:name_adm1":"\u00d8stfold Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1159296713,
         85633341,
@@ -96,11 +96,11 @@
             "localadmin_id":1159296713,
             "locality_id":101816219,
             "neighbourhood_id":1495148531,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495148531,
-    "wof:lastmodified":1581020309,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tistedal",
     "wof:parent_id":101816219,
     "wof:placetype":"neighbourhood",

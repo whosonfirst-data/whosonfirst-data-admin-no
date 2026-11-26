@@ -47,7 +47,7 @@
         102191581,
         1527971073,
         85633341,
-        1527947267
+        9895008353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +62,11 @@
             "country_id":85633341,
             "localadmin_id":1527971073,
             "locality_id":101826651,
-            "region_id":1527947267
+            "region_id":9895008353
         }
     ],
     "wof:id":101826651,
-    "wof:lastmodified":1581019682,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kirkevoll/Brekke\u00e5sen",
     "wof:parent_id":1527971073,
     "wof:placetype":"locality",

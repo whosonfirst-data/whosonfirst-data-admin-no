@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1159297385,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1159297385,
             "locality_id":1126001775,
             "neighbourhood_id":1495149225,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495149225,
-    "wof:lastmodified":1581020319,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kjolstadlokka",
     "wof:parent_id":1126001775,
     "wof:placetype":"neighbourhood",

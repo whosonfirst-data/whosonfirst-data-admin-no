@@ -38,7 +38,7 @@
         102191581,
         1159297387,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +52,11 @@
             "country_id":85633341,
             "localadmin_id":1159297387,
             "locality_id":1242896433,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1242896433,
-    "wof:lastmodified":1581017425,
+    "wof:lastmodified":1795728998,
     "wof:name":"Hoyvik",
     "wof:parent_id":1159297387,
     "wof:placetype":"locality",

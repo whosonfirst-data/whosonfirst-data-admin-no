@@ -88,7 +88,7 @@
         102191581,
         1527971021,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,11 +106,11 @@
             "country_id":85633341,
             "localadmin_id":1527971021,
             "locality_id":1125878903,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1125878903,
-    "wof:lastmodified":1690849534,
+    "wof:lastmodified":1795728998,
     "wof:name":"Hvalstad",
     "wof:parent_id":1527971021,
     "wof:placetype":"locality",

@@ -153,7 +153,7 @@
         1159296755,
         85633341,
         1126031233,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,14 +175,14 @@
             "localadmin_id":1159296755,
             "locality_id":1126031233,
             "neighbourhood_id":85901569,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":85901569,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849318,
+    "wof:lastmodified":1795728998,
     "wof:name":"Folkvang",
     "wof:parent_id":1126031233,
     "wof:placetype":"neighbourhood",

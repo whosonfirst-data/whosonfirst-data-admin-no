@@ -74,7 +74,7 @@
         1159297385,
         85633341,
         1125851043,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,11 +93,11 @@
             "localadmin_id":1159297385,
             "locality_id":1125851043,
             "neighbourhood_id":1495148063,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495148063,
-    "wof:lastmodified":1690849653,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kr\u00e5ker\u00f8y",
     "wof:parent_id":1125851043,
     "wof:placetype":"neighbourhood",

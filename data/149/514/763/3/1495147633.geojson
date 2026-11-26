@@ -51,7 +51,7 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159297627,
         85633341,
@@ -71,11 +71,11 @@
             "localadmin_id":1159297627,
             "locality_id":101816233,
             "neighbourhood_id":1495147633,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495147633,
-    "wof:lastmodified":1581020313,
+    "wof:lastmodified":1795728998,
     "wof:name":"As",
     "wof:parent_id":101816233,
     "wof:placetype":"neighbourhood",

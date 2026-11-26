@@ -44,7 +44,7 @@
         102191581,
         1159297483,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,11 +58,11 @@
             "country_id":85633341,
             "localadmin_id":1159297483,
             "locality_id":1326693317,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1326693317,
-    "wof:lastmodified":1581017410,
+    "wof:lastmodified":1795728998,
     "wof:name":"Hamnnes",
     "wof:parent_id":1159297483,
     "wof:placetype":"locality",

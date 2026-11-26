@@ -49,7 +49,7 @@
         102191581,
         1159297563,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +63,11 @@
             "country_id":85633341,
             "localadmin_id":1159297563,
             "locality_id":1242896519,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1242896519,
-    "wof:lastmodified":1581017474,
+    "wof:lastmodified":1795728998,
     "wof:name":"Gieddi",
     "wof:parent_id":1159297563,
     "wof:placetype":"locality",

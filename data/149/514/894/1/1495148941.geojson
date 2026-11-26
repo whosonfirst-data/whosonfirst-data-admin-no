@@ -182,7 +182,7 @@
         1159297189,
         85633341,
         101814667,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -201,11 +201,11 @@
             "localadmin_id":1159297189,
             "locality_id":101814667,
             "neighbourhood_id":1495148941,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1495148941,
-    "wof:lastmodified":1690849645,
+    "wof:lastmodified":1795728998,
     "wof:name":"Bardu",
     "wof:parent_id":101814667,
     "wof:placetype":"neighbourhood",

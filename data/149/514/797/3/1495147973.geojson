@@ -32,7 +32,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947267,
+        9895008354,
         102191581,
         1159296755,
         85633341,
@@ -51,11 +51,11 @@
             "localadmin_id":1159296755,
             "locality_id":1126031233,
             "neighbourhood_id":1495147973,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1495147973,
-    "wof:lastmodified":1581019702,
+    "wof:lastmodified":1795728998,
     "wof:name":"Orstveit",
     "wof:parent_id":1126031233,
     "wof:placetype":"neighbourhood",

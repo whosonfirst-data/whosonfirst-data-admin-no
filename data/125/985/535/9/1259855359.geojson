@@ -40,7 +40,7 @@
         102191581,
         1159297593,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +59,11 @@
             "country_id":85633341,
             "localadmin_id":1159297593,
             "locality_id":1259855359,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1259855359,
-    "wof:lastmodified":1706240544,
+    "wof:lastmodified":1795728998,
     "wof:name":"Arildseng",
     "wof:parent_id":1159297593,
     "wof:placetype":"locality",

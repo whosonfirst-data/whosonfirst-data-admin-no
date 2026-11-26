@@ -70,7 +70,7 @@
     "woe:name_adm1":"Oppland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159297419,
         85633341,
@@ -92,11 +92,11 @@
             "localadmin_id":1159297419,
             "locality_id":101815601,
             "neighbourhood_id":1495147727,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495147727,
-    "wof:lastmodified":1581020312,
+    "wof:lastmodified":1795728998,
     "wof:name":"Roa",
     "wof:parent_id":101815601,
     "wof:placetype":"neighbourhood",

@@ -932,7 +932,7 @@
         102191581,
         1159297187,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -957,14 +957,14 @@
             "country_id":85633341,
             "localadmin_id":1159297187,
             "locality_id":101751929,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":101751929,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849417,
+    "wof:lastmodified":1795728998,
     "wof:megacity":0,
     "wof:name":"Troms\u00f8",
     "wof:parent_id":1159297187,

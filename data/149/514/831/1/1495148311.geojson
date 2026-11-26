@@ -107,7 +107,7 @@
         1527971019,
         85633341,
         1495124053,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,11 +126,11 @@
             "localadmin_id":1527971019,
             "locality_id":1495124053,
             "neighbourhood_id":1495148311,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495148311,
-    "wof:lastmodified":1690849651,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kjeller",
     "wof:parent_id":1495124053,
     "wof:placetype":"neighbourhood",

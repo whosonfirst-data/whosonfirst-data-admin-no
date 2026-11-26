@@ -29,7 +29,7 @@
         102191581,
         1527971111,
         85633341,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:country":"NO",
@@ -41,11 +41,11 @@
             "country_id":85633341,
             "localadmin_id":1527971111,
             "locality_id":1495123945,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495123945,
-    "wof:lastmodified":1581020242,
+    "wof:lastmodified":1795728998,
     "wof:name":"Halmstad",
     "wof:parent_id":1527971111,
     "wof:placetype":"locality",

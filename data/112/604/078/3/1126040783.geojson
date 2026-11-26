@@ -77,7 +77,7 @@
         102191581,
         1527971021,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,11 +94,11 @@
             "country_id":85633341,
             "localadmin_id":1527971021,
             "locality_id":1126040783,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1126040783,
-    "wof:lastmodified":1690849495,
+    "wof:lastmodified":1795728998,
     "wof:name":"Billingstad",
     "wof:parent_id":1527971021,
     "wof:placetype":"locality",

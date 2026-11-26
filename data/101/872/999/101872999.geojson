@@ -306,7 +306,7 @@
         102191581,
         1159297177,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -329,14 +329,14 @@
             "country_id":85633341,
             "localadmin_id":1159297177,
             "locality_id":101872999,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":101872999,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849367,
+    "wof:lastmodified":1795728998,
     "wof:name":"\u00d8ksfjord",
     "wof:parent_id":1159297177,
     "wof:placetype":"locality",

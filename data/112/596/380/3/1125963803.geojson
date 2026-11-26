@@ -47,7 +47,7 @@
         102191581,
         1159297035,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +63,11 @@
             "country_id":85633341,
             "localadmin_id":1159297035,
             "locality_id":1125963803,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1125963803,
-    "wof:lastmodified":1581019642,
+    "wof:lastmodified":1795728998,
     "wof:name":"J\u00f8nnevall",
     "wof:parent_id":1159297035,
     "wof:placetype":"locality",

@@ -50,7 +50,7 @@
         102191581,
         1159297143,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,11 +67,11 @@
             "country_id":85633341,
             "localadmin_id":1159297143,
             "locality_id":1125791563,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1125791563,
-    "wof:lastmodified":1581017386,
+    "wof:lastmodified":1795728998,
     "wof:name":"Bekkarfjord",
     "wof:parent_id":1159297143,
     "wof:placetype":"locality",

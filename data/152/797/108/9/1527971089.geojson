@@ -55,7 +55,7 @@
     "wof:belongsto":[
         102191581,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1527971089,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1527971089,
@@ -93,9 +93,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1695878909,
+    "wof:lastmodified":1795728998,
     "wof:name":"Senja",
-    "wof:parent_id":1527947259,
+    "wof:parent_id":9895008355,
     "wof:placetype":"localadmin",
     "wof:population":14851,
     "wof:population_rank":6,

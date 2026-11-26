@@ -41,7 +41,7 @@
         102191581,
         1159296871,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +55,11 @@
             "country_id":85633341,
             "localadmin_id":1159296871,
             "locality_id":1309928495,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1309928495,
-    "wof:lastmodified":1581017512,
+    "wof:lastmodified":1795728998,
     "wof:name":"Assebakti",
     "wof:parent_id":1159296871,
     "wof:placetype":"locality",

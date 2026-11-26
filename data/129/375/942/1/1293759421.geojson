@@ -44,7 +44,7 @@
         102191581,
         1159297187,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +59,11 @@
             "country_id":85633341,
             "localadmin_id":1159297187,
             "locality_id":1293759421,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1293759421,
-    "wof:lastmodified":1581017375,
+    "wof:lastmodified":1795728998,
     "wof:name":"Sandneshamn",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",

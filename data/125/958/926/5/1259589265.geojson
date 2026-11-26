@@ -35,7 +35,7 @@
         102191581,
         1159297513,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +49,11 @@
             "country_id":85633341,
             "localadmin_id":1159297513,
             "locality_id":1259589265,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1259589265,
-    "wof:lastmodified":1581020191,
+    "wof:lastmodified":1795728998,
     "wof:name":"Havik",
     "wof:parent_id":1159297513,
     "wof:placetype":"locality",

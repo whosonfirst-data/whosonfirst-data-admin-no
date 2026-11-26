@@ -64,7 +64,7 @@
     "woe:name_adm1":"Vestfold Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1527971109,
         85633341,
@@ -86,11 +86,11 @@
             "localadmin_id":1527971109,
             "locality_id":1495123973,
             "neighbourhood_id":1495148133,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495148133,
-    "wof:lastmodified":1581020315,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tangen",
     "wof:parent_id":1495123973,
     "wof:placetype":"neighbourhood",

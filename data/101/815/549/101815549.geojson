@@ -103,7 +103,7 @@
         102191581,
         1159297621,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,14 +125,14 @@
             "country_id":85633341,
             "localadmin_id":1159297621,
             "locality_id":101815549,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":101815549,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313598,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kl\u00f8fta",
     "wof:parent_id":1159297621,
     "wof:placetype":"locality",

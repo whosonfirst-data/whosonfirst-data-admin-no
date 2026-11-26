@@ -44,7 +44,7 @@
         102191581,
         1527971113,
         85633341,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +59,11 @@
             "country_id":85633341,
             "localadmin_id":1527971113,
             "locality_id":1276739285,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1276739285,
-    "wof:lastmodified":1581020188,
+    "wof:lastmodified":1795728998,
     "wof:name":"Momarken",
     "wof:parent_id":1527971113,
     "wof:placetype":"locality",

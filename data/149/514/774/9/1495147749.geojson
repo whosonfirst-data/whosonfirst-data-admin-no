@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159297221,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1159297221,
             "locality_id":101815561,
             "neighbourhood_id":1495147749,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495147749,
-    "wof:lastmodified":1581020312,
+    "wof:lastmodified":1795728998,
     "wof:name":"Flauet",
     "wof:parent_id":101815561,
     "wof:placetype":"neighbourhood",

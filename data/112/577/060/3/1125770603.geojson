@@ -298,7 +298,7 @@
         102191581,
         1159297345,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -316,11 +316,11 @@
             "country_id":85633341,
             "localadmin_id":1159297345,
             "locality_id":1125770603,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1125770603,
-    "wof:lastmodified":1690849623,
+    "wof:lastmodified":1795728998,
     "wof:name":"Hokksund",
     "wof:parent_id":1159297345,
     "wof:placetype":"locality",

@@ -35,7 +35,7 @@
         102191581,
         1159297455,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +49,11 @@
             "country_id":85633341,
             "localadmin_id":1159297455,
             "locality_id":1309781771,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1309781771,
-    "wof:lastmodified":1581017377,
+    "wof:lastmodified":1795728998,
     "wof:name":"Lavangnes",
     "wof:parent_id":1159297455,
     "wof:placetype":"locality",

@@ -114,7 +114,7 @@
         102191581,
         1527971017,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,11 +135,11 @@
             "country_id":85633341,
             "localadmin_id":1527971017,
             "locality_id":1125861107,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1125861107,
-    "wof:lastmodified":1690849503,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kolbotn",
     "wof:parent_id":1527971017,
     "wof:placetype":"locality",

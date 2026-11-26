@@ -68,7 +68,7 @@
         102191581,
         1159297349,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +83,11 @@
             "country_id":85633341,
             "localadmin_id":1159297349,
             "locality_id":1209529641,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1209529641,
-    "wof:lastmodified":1581020216,
+    "wof:lastmodified":1795728998,
     "wof:name":"Brarud",
     "wof:parent_id":1159297349,
     "wof:placetype":"locality",

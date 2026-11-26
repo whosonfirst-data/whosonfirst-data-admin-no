@@ -52,7 +52,7 @@
     "wof:belongsto":[
         102191581,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1528041085,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1528041085,
@@ -82,9 +82,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1695878917,
+    "wof:lastmodified":1795728998,
     "wof:name":"Aurskog-H\u00f8land",
-    "wof:parent_id":1527947269,
+    "wof:parent_id":9895008351,
     "wof:placetype":"localadmin",
     "wof:population":17390,
     "wof:population_rank":6,

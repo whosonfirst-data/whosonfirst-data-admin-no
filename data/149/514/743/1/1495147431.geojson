@@ -38,7 +38,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947259,
+        9895008356,
         102191581,
         1159297287,
         85633341,
@@ -57,11 +57,11 @@
             "localadmin_id":1159297287,
             "locality_id":101911289,
             "neighbourhood_id":1495147431,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1495147431,
-    "wof:lastmodified":1581017536,
+    "wof:lastmodified":1795728998,
     "wof:name":"Holmbukta",
     "wof:parent_id":101911289,
     "wof:placetype":"neighbourhood",

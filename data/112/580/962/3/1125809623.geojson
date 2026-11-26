@@ -92,7 +92,7 @@
         102191581,
         1159297385,
         85633341,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +110,11 @@
             "country_id":85633341,
             "localadmin_id":1159297385,
             "locality_id":1125809623,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1125809623,
-    "wof:lastmodified":1690849520,
+    "wof:lastmodified":1795728998,
     "wof:name":"Slevik",
     "wof:parent_id":1159297385,
     "wof:placetype":"locality",

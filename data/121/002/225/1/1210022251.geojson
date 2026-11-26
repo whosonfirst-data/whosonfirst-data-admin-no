@@ -35,7 +35,7 @@
         102191581,
         1159297373,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +49,11 @@
             "country_id":85633341,
             "localadmin_id":1159297373,
             "locality_id":1210022251,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1210022251,
-    "wof:lastmodified":1581020180,
+    "wof:lastmodified":1795728998,
     "wof:name":"Magnetun",
     "wof:parent_id":1159297373,
     "wof:placetype":"locality",

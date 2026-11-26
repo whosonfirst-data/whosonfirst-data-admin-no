@@ -100,7 +100,7 @@
         102191581,
         1159296697,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,14 +122,14 @@
             "country_id":85633341,
             "localadmin_id":1159296697,
             "locality_id":101803969,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":101803969,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849402,
+    "wof:lastmodified":1795728998,
     "wof:name":"Nesbyen",
     "wof:parent_id":1159296697,
     "wof:placetype":"locality",

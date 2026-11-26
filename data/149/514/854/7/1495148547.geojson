@@ -44,7 +44,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159296969,
         85633341,
@@ -63,11 +63,11 @@
             "localadmin_id":1159296969,
             "locality_id":1495124061,
             "neighbourhood_id":1495148547,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495148547,
-    "wof:lastmodified":1581020308,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kjul",
     "wof:parent_id":1495124061,
     "wof:placetype":"neighbourhood",

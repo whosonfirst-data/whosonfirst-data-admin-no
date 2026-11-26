@@ -80,7 +80,7 @@
         102191581,
         1527971069,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,11 +97,11 @@
             "country_id":85633341,
             "localadmin_id":1527971069,
             "locality_id":1125819277,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1125819277,
-    "wof:lastmodified":1690849510,
+    "wof:lastmodified":1795728998,
     "wof:name":"Nordagutu",
     "wof:parent_id":1527971069,
     "wof:placetype":"locality",

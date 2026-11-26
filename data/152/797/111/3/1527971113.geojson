@@ -55,7 +55,7 @@
     "wof:belongsto":[
         102191581,
         85633341,
-        1527947269
+        9895008350
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +81,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1527971113,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1527971113,
@@ -94,9 +94,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1695878912,
+    "wof:lastmodified":1795728998,
     "wof:name":"Indre \u00d8stfold",
-    "wof:parent_id":1527947269,
+    "wof:parent_id":9895008350,
     "wof:placetype":"localadmin",
     "wof:population":44792,
     "wof:population_rank":7,

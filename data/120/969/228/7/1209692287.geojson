@@ -40,7 +40,7 @@
         102191581,
         1159296755,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +54,11 @@
             "country_id":85633341,
             "localadmin_id":1159296755,
             "locality_id":1209692287,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1209692287,
-    "wof:lastmodified":1581019651,
+    "wof:lastmodified":1795728998,
     "wof:name":"Sildevik",
     "wof:parent_id":1159296755,
     "wof:placetype":"locality",

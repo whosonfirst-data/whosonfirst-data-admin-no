@@ -4,7 +4,7 @@
   "properties": {
     "date:inception_lower":"2020-01-01",
     "date:inception_upper":"2020-01-01",
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2024-01-01",
     "edtf:inception":"2020-01-01",
     "eurostat:coast_type":"1",
     "eurostat:country_code":"NO",
@@ -43,7 +43,7 @@
     "mps:latitude":59.546564,
     "mps:longitude":8.536491,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "Vestfold og Telemark"
     ],
@@ -97,14 +97,17 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1695885258,
+    "wof:lastmodified":1795728998,
     "wof:name":"Vestfold og Telemark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:population":424832,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008353,
+        9895008354
+    ],
     "wof:supersedes":[
         85687073,
         85687091

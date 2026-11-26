@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1159296937,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1159296937,
             "locality_id":101803975,
             "neighbourhood_id":1495148865,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495148865,
-    "wof:lastmodified":1581020318,
+    "wof:lastmodified":1795728998,
     "wof:name":"Eikenga",
     "wof:parent_id":101803975,
     "wof:placetype":"neighbourhood",

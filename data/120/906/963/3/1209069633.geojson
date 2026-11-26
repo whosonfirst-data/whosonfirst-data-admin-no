@@ -251,7 +251,7 @@
         102191581,
         1159296775,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,11 +265,11 @@
             "country_id":85633341,
             "localadmin_id":1159296775,
             "locality_id":1209069633,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1209069633,
-    "wof:lastmodified":1581017472,
+    "wof:lastmodified":1795728998,
     "wof:name":"Karlstad",
     "wof:parent_id":1159296775,
     "wof:placetype":"locality",

@@ -35,7 +35,7 @@
         102191581,
         1159296697,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +49,11 @@
             "country_id":85633341,
             "localadmin_id":1159296697,
             "locality_id":1326936459,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1326936459,
-    "wof:lastmodified":1581020165,
+    "wof:lastmodified":1795728998,
     "wof:name":"Rukke",
     "wof:parent_id":1159296697,
     "wof:placetype":"locality",

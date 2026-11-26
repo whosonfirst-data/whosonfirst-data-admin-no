@@ -33,7 +33,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159297355,
         85633341,
@@ -52,11 +52,11 @@
             "localadmin_id":1159297355,
             "locality_id":101816231,
             "neighbourhood_id":1495149339,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495149339,
-    "wof:lastmodified":1581020321,
+    "wof:lastmodified":1795728998,
     "wof:name":"Sogsti",
     "wof:parent_id":101816231,
     "wof:placetype":"neighbourhood",

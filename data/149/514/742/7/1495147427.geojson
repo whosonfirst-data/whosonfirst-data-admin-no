@@ -37,7 +37,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947259,
+        9895008355,
         102191581,
         1159297055,
         85633341,
@@ -56,11 +56,11 @@
             "localadmin_id":1159297055,
             "locality_id":101814663,
             "neighbourhood_id":1495147427,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1495147427,
-    "wof:lastmodified":1581017536,
+    "wof:lastmodified":1795728998,
     "wof:name":"Nordstraumen",
     "wof:parent_id":101814663,
     "wof:placetype":"neighbourhood",

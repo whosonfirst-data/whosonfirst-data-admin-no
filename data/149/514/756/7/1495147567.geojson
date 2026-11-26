@@ -44,7 +44,7 @@
     "woe:name_adm1":"\u00d8stfold Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1159297385,
         85633341,
@@ -65,11 +65,11 @@
             "localadmin_id":1159297385,
             "locality_id":1125851043,
             "neighbourhood_id":1495147567,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495147567,
-    "wof:lastmodified":1581020311,
+    "wof:lastmodified":1795728998,
     "wof:name":"Gamlebyen",
     "wof:parent_id":1125851043,
     "wof:placetype":"neighbourhood",

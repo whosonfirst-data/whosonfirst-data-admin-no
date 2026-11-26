@@ -44,7 +44,7 @@
     "woe:name_adm1":"Troms Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947259,
+        9895008355,
         102191581,
         1159297187,
         85633341,
@@ -65,11 +65,11 @@
             "localadmin_id":1159297187,
             "locality_id":101751929,
             "neighbourhood_id":1495148147,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1495148147,
-    "wof:lastmodified":1581017538,
+    "wof:lastmodified":1795728998,
     "wof:name":"Olsg\u00e5rd",
     "wof:parent_id":101751929,
     "wof:placetype":"neighbourhood",

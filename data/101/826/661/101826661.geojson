@@ -82,7 +82,7 @@
         102191581,
         1159296937,
         85633341,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,14 +104,14 @@
             "country_id":85633341,
             "localadmin_id":1159296937,
             "locality_id":101826661,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":101826661,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849365,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tranby",
     "wof:parent_id":1159296937,
     "wof:placetype":"locality",

@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1159297255,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1159297255,
             "locality_id":101803981,
             "neighbourhood_id":1495147861,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495147861,
-    "wof:lastmodified":1581020314,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kongsgardmoen",
     "wof:parent_id":101803981,
     "wof:placetype":"neighbourhood",

@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008350,
         102191581,
         1159297257,
         85633341,
@@ -54,11 +54,11 @@
             "localadmin_id":1159297257,
             "locality_id":101839845,
             "neighbourhood_id":1495147799,
-            "region_id":1527947269
+            "region_id":9895008350
         }
     ],
     "wof:id":1495147799,
-    "wof:lastmodified":1581020313,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kjerre",
     "wof:parent_id":101839845,
     "wof:placetype":"neighbourhood",

@@ -78,7 +78,7 @@
         1159297221,
         85633341,
         101815561,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,11 +96,11 @@
             "localadmin_id":1159297221,
             "locality_id":101815561,
             "neighbourhood_id":1495148155,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495148155,
-    "wof:lastmodified":1690849650,
+    "wof:lastmodified":1795728998,
     "wof:name":"Flaskebekk",
     "wof:parent_id":101815561,
     "wof:placetype":"neighbourhood",

@@ -232,7 +232,7 @@
         102191581,
         1527971077,
         85633341,
-        1527947267
+        9895008353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,14 +254,14 @@
             "country_id":85633341,
             "localadmin_id":1527971077,
             "locality_id":101815507,
-            "region_id":1527947267
+            "region_id":9895008353
         }
     ],
     "wof:id":101815507,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849425,
+    "wof:lastmodified":1795728998,
     "wof:name":"Horten",
     "wof:parent_id":1527971077,
     "wof:placetype":"locality",

@@ -39,7 +39,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008352,
         102191581,
         1159297473,
         85633341,
@@ -58,11 +58,11 @@
             "localadmin_id":1159297473,
             "locality_id":101803983,
             "neighbourhood_id":1495148185,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":1495148185,
-    "wof:lastmodified":1581020316,
+    "wof:lastmodified":1795728998,
     "wof:name":"Kyrkjeboen",
     "wof:parent_id":101803983,
     "wof:placetype":"neighbourhood",

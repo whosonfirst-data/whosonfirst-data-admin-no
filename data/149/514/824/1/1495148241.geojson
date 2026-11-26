@@ -38,7 +38,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947269,
+        9895008351,
         102191581,
         1159297097,
         85633341,
@@ -57,11 +57,11 @@
             "localadmin_id":1159297097,
             "locality_id":101815527,
             "neighbourhood_id":1495148241,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1495148241,
-    "wof:lastmodified":1581020317,
+    "wof:lastmodified":1795728998,
     "wof:name":"Vegamot",
     "wof:parent_id":101815527,
     "wof:placetype":"neighbourhood",

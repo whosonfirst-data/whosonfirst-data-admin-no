@@ -52,7 +52,7 @@
         102191581,
         85633341,
         1159296811,
-        1527947269
+        9895008352
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,11 +70,11 @@
             "country_id":85633341,
             "localadmin_id":1159296811,
             "locality_id":101911125,
-            "region_id":1527947269
+            "region_id":9895008352
         }
     ],
     "wof:id":101911125,
-    "wof:lastmodified":1661550948,
+    "wof:lastmodified":1795728998,
     "wof:name":"Utvika",
     "wof:parent_id":1159296811,
     "wof:placetype":"locality",

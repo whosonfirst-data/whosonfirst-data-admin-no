@@ -89,7 +89,7 @@
         102191581,
         1159297009,
         85633341,
-        1527947269
+        9895008351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,11 +106,11 @@
             "country_id":85633341,
             "localadmin_id":1159297009,
             "locality_id":1125872723,
-            "region_id":1527947269
+            "region_id":9895008351
         }
     ],
     "wof:id":1125872723,
-    "wof:lastmodified":1690849528,
+    "wof:lastmodified":1795728998,
     "wof:name":"\u00d8ster\u00e5s",
     "wof:parent_id":1159297009,
     "wof:placetype":"locality",

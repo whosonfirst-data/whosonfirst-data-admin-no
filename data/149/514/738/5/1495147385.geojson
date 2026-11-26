@@ -47,7 +47,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947267,
+        9895008353,
         102191581,
         1527971077,
         85633341,
@@ -66,11 +66,11 @@
             "localadmin_id":1527971077,
             "locality_id":101815507,
             "neighbourhood_id":1495147385,
-            "region_id":1527947267
+            "region_id":9895008353
         }
     ],
     "wof:id":1495147385,
-    "wof:lastmodified":1581019705,
+    "wof:lastmodified":1795728998,
     "wof:name":"Apenes",
     "wof:parent_id":101815507,
     "wof:placetype":"neighbourhood",

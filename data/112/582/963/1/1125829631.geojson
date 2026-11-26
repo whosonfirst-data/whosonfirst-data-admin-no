@@ -95,7 +95,7 @@
         102191581,
         1159296751,
         85633341,
-        1527947259
+        9895008356
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,11 +112,11 @@
             "country_id":85633341,
             "localadmin_id":1159296751,
             "locality_id":1125829631,
-            "region_id":1527947259
+            "region_id":9895008356
         }
     ],
     "wof:id":1125829631,
-    "wof:lastmodified":1581017416,
+    "wof:lastmodified":1795728998,
     "wof:name":"Tanabru",
     "wof:parent_id":1159296751,
     "wof:placetype":"locality",

@@ -38,7 +38,7 @@
         102191581,
         1159297529,
         85633341,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +52,11 @@
             "country_id":85633341,
             "localadmin_id":1159297529,
             "locality_id":1310081923,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1310081923,
-    "wof:lastmodified":1581019618,
+    "wof:lastmodified":1795728998,
     "wof:name":"Nord-bygdi",
     "wof:parent_id":1159297529,
     "wof:placetype":"locality",

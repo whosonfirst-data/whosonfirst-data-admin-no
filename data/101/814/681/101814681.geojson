@@ -102,7 +102,7 @@
         102191581,
         1159297359,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,14 +124,14 @@
             "country_id":85633341,
             "localadmin_id":1159297359,
             "locality_id":101814681,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":101814681,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849436,
+    "wof:lastmodified":1795728998,
     "wof:name":"Lyngseidet",
     "wof:parent_id":1159297359,
     "wof:placetype":"locality",

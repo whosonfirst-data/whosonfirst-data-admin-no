@@ -35,7 +35,7 @@
         102191581,
         1159297453,
         85633341,
-        1527947259
+        9895008355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +49,11 @@
             "country_id":85633341,
             "localadmin_id":1159297453,
             "locality_id":1226306233,
-            "region_id":1527947259
+            "region_id":9895008355
         }
     ],
     "wof:id":1226306233,
-    "wof:lastmodified":1581017507,
+    "wof:lastmodified":1795728998,
     "wof:name":"Laberget",
     "wof:parent_id":1159297453,
     "wof:placetype":"locality",

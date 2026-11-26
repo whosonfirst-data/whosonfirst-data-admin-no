@@ -53,7 +53,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947267,
+        9895008353,
         102191581,
         1527971073,
         85633341,
@@ -73,11 +73,11 @@
             "localadmin_id":1527971073,
             "locality_id":101815521,
             "neighbourhood_id":1495148021,
-            "region_id":1527947267
+            "region_id":9895008353
         }
     ],
     "wof:id":1495148021,
-    "wof:lastmodified":1581019702,
+    "wof:lastmodified":1795728998,
     "wof:name":"Vear",
     "wof:parent_id":101815521,
     "wof:placetype":"neighbourhood",

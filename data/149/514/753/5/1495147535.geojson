@@ -56,7 +56,7 @@
         1527971069,
         85633341,
         101803867,
-        1527947267
+        9895008354
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +71,11 @@
             "localadmin_id":1527971069,
             "locality_id":101803867,
             "neighbourhood_id":1495147535,
-            "region_id":1527947267
+            "region_id":9895008354
         }
     ],
     "wof:id":1495147535,
-    "wof:lastmodified":1636494789,
+    "wof:lastmodified":1795728998,
     "wof:name":"Bo",
     "wof:parent_id":101803867,
     "wof:placetype":"neighbourhood",
