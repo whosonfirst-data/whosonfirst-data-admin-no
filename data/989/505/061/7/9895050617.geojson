@@ -1,0 +1,74 @@
+{
+  "id": 9895050617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38969,64.79502,13.38969,64.79502",
+    "geom:latitude":64.79502,
+    "geom:longitude":13.38969,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3133736: name \"Tunnsj\u00f8r\u00f8rvika\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3133736"
+        },
+        {
+            "citation":"GeoNames populated place 3133736: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3133736"
+        },
+        {
+            "citation":"GeoNames populated place 3133736: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3133736"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297049 (R\u00f8yrvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297049,
+        1495115971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133736
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"78444be31d90a82a8fbbad2940a8a8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297049,
+            "locality_id":9895050617,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":9895050617,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Tunnsj\u00f8r\u00f8rvika",
+    "wof:parent_id":1159297049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38969,
+    64.79502,
+    13.38969,
+    64.79502
+],
+  "geometry": {"coordinates":[13.38969,64.79502],"type":"Point"}
+}

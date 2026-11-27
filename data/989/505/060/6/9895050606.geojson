@@ -1,0 +1,74 @@
+{
+  "id": 9895050606,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4872,69.6505,29.4872,69.6505",
+    "geom:latitude":69.6505,
+    "geom:longitude":29.4872,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 778642: name \"Munkefjord\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/778642"
+        },
+        {
+            "citation":"GeoNames populated place 778642: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/778642"
+        },
+        {
+            "citation":"GeoNames populated place 778642: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/778642"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296947 (S\u00f8r-Varanger), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296947,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778642
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"61ac08be0b8e997893718baf1c412b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":9895050606,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895050606,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Munkefjord",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4872,
+    69.6505,
+    29.4872,
+    69.6505
+],
+  "geometry": {"coordinates":[29.4872,69.6505],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895052133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29557,70.11705,29.29557,70.11705",
+    "geom:latitude":70.11705,
+    "geom:longitude":29.29557,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645421: name \"Skittenelv\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645421"
+        },
+        {
+            "citation":"GeoNames populated place 13645421: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645421"
+        },
+        {
+            "citation":"GeoNames populated place 13645421: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645421"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297387 (Vads\u00f8), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297387,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645421
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d1e63c6d76a7154b4e41fffc56c28341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297387,
+            "locality_id":9895052133,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895052133,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Skittenelv",
+    "wof:parent_id":1159297387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29557,
+    70.11705,
+    29.29557,
+    70.11705
+],
+  "geometry": {"coordinates":[29.29557,70.11705],"type":"Point"}
+}

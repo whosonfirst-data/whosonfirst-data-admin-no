@@ -1,0 +1,74 @@
+{
+  "id": 9895051505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13221,59.42117,10.13221,59.42117",
+    "geom:latitude":59.42117,
+    "geom:longitude":10.13221,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12023817: name \"Vivestad Skole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12023817"
+        },
+        {
+            "citation":"GeoNames populated place 12023817: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12023817"
+        },
+        {
+            "citation":"GeoNames populated place 12023817: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12023817"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971073 (T\u00f8nsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971073,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12023817
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3d28f37ff0f10fcd406e8b9474befbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "locality_id":9895051505,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051505,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Vivestad Skole",
+    "wof:parent_id":1527971073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13221,
+    59.42117,
+    10.13221,
+    59.42117
+],
+  "geometry": {"coordinates":[10.13221,59.42117],"type":"Point"}
+}

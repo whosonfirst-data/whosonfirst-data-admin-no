@@ -1,0 +1,72 @@
+{
+  "id": 9895092520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44482,59.16984,10.44482,59.16984",
+    "geom:latitude":59.16984,
+    "geom:longitude":10.44482,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12080466: name \"Nestvik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12080466"
+        },
+        {
+            "citation":"GeoNames populated place 12080466: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12080466"
+        },
+        {
+            "citation":"GeoNames populated place 12080466: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12080466"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008353 (Vestfold), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12080466
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1f7924cc07c587af4c40f71dabe3b586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "locality_id":9895092520,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895092520,
+    "wof:lastmodified":1795746161,
+    "wof:name":"Nestvik",
+    "wof:parent_id":9895008353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44482,
+    59.16984,
+    10.44482,
+    59.16984
+],
+  "geometry": {"coordinates":[10.44482,59.16984],"type":"Point"}
+}

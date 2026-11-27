@@ -1,0 +1,74 @@
+{
+  "id": 9895051423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37716,59.53215,10.37716,59.53215",
+    "geom:latitude":59.53215,
+    "geom:longitude":10.37716,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11998699: name \"Leina\u00e5sen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11998699"
+        },
+        {
+            "citation":"GeoNames populated place 11998699: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11998699"
+        },
+        {
+            "citation":"GeoNames populated place 11998699: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11998699"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971075 (Holmestrand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971075,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11998699
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"29ebfa59032b0200d79ed8780a67f85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971075,
+            "locality_id":9895051423,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051423,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Leina\u00e5sen",
+    "wof:parent_id":1527971075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37716,
+    59.53215,
+    10.37716,
+    59.53215
+],
+  "geometry": {"coordinates":[10.37716,59.53215],"type":"Point"}
+}

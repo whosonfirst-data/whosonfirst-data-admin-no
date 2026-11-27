@@ -1,0 +1,74 @@
+{
+  "id": 9895052121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.32939,60.38715,5.32939,60.38715",
+    "geom:latitude":60.38715,
+    "geom:longitude":5.32939,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450882: name \"Nyg\u00e5rd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450882"
+        },
+        {
+            "citation":"GeoNames populated place 12450882: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450882"
+        },
+        {
+            "citation":"GeoNames populated place 12450882: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450882"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297617 (Bergen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297617,
+        1527947261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450882
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48c3e9c95a1362c3896c5112216d5785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":9895052121,
+            "region_id":1527947261
+        }
+    ],
+    "wof:id":9895052121,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Nyg\u00e5rd",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.32939,
+    60.38715,
+    5.32939,
+    60.38715
+],
+  "geometry": {"coordinates":[5.32939,60.38715],"type":"Point"}
+}

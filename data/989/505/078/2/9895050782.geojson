@@ -1,0 +1,74 @@
+{
+  "id": 9895050782,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3377,68.42725,16.3377,68.42725",
+    "geom:latitude":68.42725,
+    "geom:longitude":16.3377,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747890: name \"Myklebostad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747890"
+        },
+        {
+            "citation":"GeoNames populated place 11747890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747890"
+        },
+        {
+            "citation":"GeoNames populated place 11747890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747890"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971097 (Tjeldsund), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971097,
+        9895008355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747890
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"153d3421282cb5f3a4a91c5a67a36448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971097,
+            "locality_id":9895050782,
+            "region_id":9895008355
+        }
+    ],
+    "wof:id":9895050782,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Myklebostad",
+    "wof:parent_id":1527971097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3377,
+    68.42725,
+    16.3377,
+    68.42725
+],
+  "geometry": {"coordinates":[16.3377,68.42725],"type":"Point"}
+}

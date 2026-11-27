@@ -1,0 +1,74 @@
+{
+  "id": 9895050635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2241,68.32607,16.2241,68.32607",
+    "geom:latitude":68.32607,
+    "geom:longitude":16.2241,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3225262: name \"Valle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3225262"
+        },
+        {
+            "citation":"GeoNames populated place 3225262: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3225262"
+        },
+        {
+            "citation":"GeoNames populated place 3225262: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3225262"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971083 (Narvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687135,
+        102191581,
+        1527971083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3225262
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5ea24d065cce3313281d39f71516648b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971083,
+            "locality_id":9895050635,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":9895050635,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Valle",
+    "wof:parent_id":1527971083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2241,
+    68.32607,
+    16.2241,
+    68.32607
+],
+  "geometry": {"coordinates":[16.2241,68.32607],"type":"Point"}
+}

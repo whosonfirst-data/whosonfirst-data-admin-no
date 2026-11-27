@@ -1,0 +1,74 @@
+{
+  "id": 9895051922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6671,69.7319,29.6671,69.7319",
+    "geom:latitude":69.7319,
+    "geom:longitude":29.6671,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12166263: name \"Lillestonga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12166263"
+        },
+        {
+            "citation":"GeoNames populated place 12166263: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12166263"
+        },
+        {
+            "citation":"GeoNames populated place 12166263: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12166263"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296947 (S\u00f8r-Varanger), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296947,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12166263
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b684af713e05840730e8d7874f223f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":9895051922,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895051922,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Lillestonga",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6671,
+    69.7319,
+    29.6671,
+    69.7319
+],
+  "geometry": {"coordinates":[29.6671,69.7319],"type":"Point"}
+}

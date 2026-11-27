@@ -1,0 +1,74 @@
+{
+  "id": 9895050785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23122,65.12719,12.23122,65.12719",
+    "geom:latitude":65.12719,
+    "geom:longitude":12.23122,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748656: name \"Bindalseidet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748656"
+        },
+        {
+            "citation":"GeoNames populated place 11748656: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748656"
+        },
+        {
+            "citation":"GeoNames populated place 11748656: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748656"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296909 (Bindal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687135,
+        102191581,
+        1159296909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748656
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5f1258f5f8a785950b046d13a6a2e86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296909,
+            "locality_id":9895050785,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":9895050785,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Bindalseidet",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23122,
+    65.12719,
+    12.23122,
+    65.12719
+],
+  "geometry": {"coordinates":[12.23122,65.12719],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895052116,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.59975,59.78493,10.59975,59.78493",
+    "geom:latitude":59.78493,
+    "geom:longitude":10.59975,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177376: name \"Kvistemyr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177376"
+        },
+        {
+            "citation":"GeoNames populated place 12177376: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177376"
+        },
+        {
+            "citation":"GeoNames populated place 12177376: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177376"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297221 (Nesodden), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297221,
+        9895008351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177376
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1fbc5b5aa82925e14fd18617a57de9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297221,
+            "locality_id":9895052116,
+            "region_id":9895008351
+        }
+    ],
+    "wof:id":9895052116,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kvistemyr",
+    "wof:parent_id":1159297221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.59975,
+    59.78493,
+    10.59975,
+    59.78493
+],
+  "geometry": {"coordinates":[10.59975,59.78493],"type":"Point"}
+}

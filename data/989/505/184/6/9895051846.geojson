@@ -1,0 +1,74 @@
+{
+  "id": 9895051846,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9872,59.18936,9.9872,59.18936",
+    "geom:latitude":59.18936,
+    "geom:longitude":9.9872,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12080703: name \"Fosser\u00f8d\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12080703"
+        },
+        {
+            "citation":"GeoNames populated place 12080703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12080703"
+        },
+        {
+            "citation":"GeoNames populated place 12080703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12080703"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296779 (Larvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296779,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12080703
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6a0863e71c1d4647bfb818a3ccd619a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":9895051846,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051846,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Fosser\u00f8d",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9872,
+    59.18936,
+    9.9872,
+    59.18936
+],
+  "geometry": {"coordinates":[9.9872,59.18936],"type":"Point"}
+}

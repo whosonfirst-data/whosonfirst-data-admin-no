@@ -1,0 +1,74 @@
+{
+  "id": 9895050823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83906,59.90872,10.83906,59.90872",
+    "geom:latitude":59.90872,
+    "geom:longitude":10.83906,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11817647: name \"Godlia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11817647"
+        },
+        {
+            "citation":"GeoNames populated place 11817647: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11817647"
+        },
+        {
+            "citation":"GeoNames populated place 11817647: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11817647"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11817647
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7efc1bda6679d037950e2d026ccbd122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050823,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050823,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Godlia",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83906,
+    59.90872,
+    10.83906,
+    59.90872
+],
+  "geometry": {"coordinates":[10.83906,59.90872],"type":"Point"}
+}

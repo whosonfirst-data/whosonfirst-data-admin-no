@@ -1,0 +1,74 @@
+{
+  "id": 9895051109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18664,59.43415,10.18664,59.43415",
+    "geom:latitude":59.43415,
+    "geom:longitude":10.18664,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11867364: name \"Hvam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11867364"
+        },
+        {
+            "citation":"GeoNames populated place 11867364: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11867364"
+        },
+        {
+            "citation":"GeoNames populated place 11867364: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11867364"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971073 (T\u00f8nsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971073,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11867364
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"010cf4635235dd74c9e8efb3b2763846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "locality_id":9895051109,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051109,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Hvam",
+    "wof:parent_id":1527971073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18664,
+    59.43415,
+    10.18664,
+    59.43415
+],
+  "geometry": {"coordinates":[10.18664,59.43415],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895052132,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88706,62.25309,5.88706,62.25309",
+    "geom:latitude":62.25309,
+    "geom:longitude":5.88706,
+    "gn:population":19,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13535552: name \"B\u00f8kely\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13535552"
+        },
+        {
+            "citation":"GeoNames populated place 13535552: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13535552"
+        },
+        {
+            "citation":"GeoNames populated place 13535552: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13535552"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297271 (Ulstein), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687123,
+        102191581,
+        1159297271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13535552
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"210950a6dbec736f77613039ebccd629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297271,
+            "locality_id":9895052132,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":9895052132,
+    "wof:lastmodified":1795734993,
+    "wof:name":"B\u00f8kely",
+    "wof:parent_id":1159297271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88706,
+    62.25309,
+    5.88706,
+    62.25309
+],
+  "geometry": {"coordinates":[5.88706,62.25309],"type":"Point"}
+}

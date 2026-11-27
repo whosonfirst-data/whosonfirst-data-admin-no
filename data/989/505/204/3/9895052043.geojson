@@ -1,0 +1,74 @@
+{
+  "id": 9895052043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45555,59.38254,10.45555,59.38254",
+    "geom:latitude":59.38254,
+    "geom:longitude":10.45555,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176889: name \"Kirkebakken\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176889"
+        },
+        {
+            "citation":"GeoNames populated place 12176889: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176889"
+        },
+        {
+            "citation":"GeoNames populated place 12176889: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176889"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971077 (Horten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971077,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176889
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4d99ed99cb0b8df63805add8cf92977c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971077,
+            "locality_id":9895052043,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895052043,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kirkebakken",
+    "wof:parent_id":1527971077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45555,
+    59.38254,
+    10.45555,
+    59.38254
+],
+  "geometry": {"coordinates":[10.45555,59.38254],"type":"Point"}
+}

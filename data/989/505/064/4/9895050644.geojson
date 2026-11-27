@@ -1,0 +1,74 @@
+{
+  "id": 9895050644,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05643,61.03328,9.05643,61.03328",
+    "geom:latitude":61.03328,
+    "geom:longitude":9.05643,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8558443: name \"R\u00f8n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8558443"
+        },
+        {
+            "citation":"GeoNames populated place 8558443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8558443"
+        },
+        {
+            "citation":"GeoNames populated place 8558443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8558443"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297129 (Vestre Slidre), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297129,
+        1527947263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558443
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9d4567e050723e5b046cf4b635fc3d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":9895050644,
+            "region_id":1527947263
+        }
+    ],
+    "wof:id":9895050644,
+    "wof:lastmodified":1795734993,
+    "wof:name":"R\u00f8n",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05643,
+    61.03328,
+    9.05643,
+    61.03328
+],
+  "geometry": {"coordinates":[9.05643,61.03328],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895051921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85159,62.39926,5.85159,62.39926",
+    "geom:latitude":62.39926,
+    "geom:longitude":5.85159,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12165789: name \"Indre Fl\u00f8\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12165789"
+        },
+        {
+            "citation":"GeoNames populated place 12165789: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12165789"
+        },
+        {
+            "citation":"GeoNames populated place 12165789: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12165789"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297271 (Ulstein), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687123,
+        102191581,
+        1159297271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12165789
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"468cba6a7067b6b87db359bfc44c3441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297271,
+            "locality_id":9895051921,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":9895051921,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Indre Fl\u00f8",
+    "wof:parent_id":1159297271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85159,
+    62.39926,
+    5.85159,
+    62.39926
+],
+  "geometry": {"coordinates":[5.85159,62.39926],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53546,62.03381,5.53546,62.03381",
+    "geom:latitude":62.03381,
+    "geom:longitude":5.53546,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3163502: name \"\u00c5heim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3163502"
+        },
+        {
+            "citation":"GeoNames populated place 3163502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3163502"
+        },
+        {
+            "citation":"GeoNames populated place 3163502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3163502"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297537 (Vanylven), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687123,
+        102191581,
+        1159297537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163502
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3d1a6857f8c16f5ff1562552b2642142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297537,
+            "locality_id":9895050630,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":9895050630,
+    "wof:lastmodified":1795734993,
+    "wof:name":"\u00c5heim",
+    "wof:parent_id":1159297537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53546,
+    62.03381,
+    5.53546,
+    62.03381
+],
+  "geometry": {"coordinates":[5.53546,62.03381],"type":"Point"}
+}

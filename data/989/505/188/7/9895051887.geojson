@@ -1,0 +1,74 @@
+{
+  "id": 9895051887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28888,59.21951,10.28888,59.21951",
+    "geom:latitude":59.21951,
+    "geom:longitude":10.28888,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12089519: name \"B\u00e6refjell\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12089519"
+        },
+        {
+            "citation":"GeoNames populated place 12089519: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12089519"
+        },
+        {
+            "citation":"GeoNames populated place 12089519: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12089519"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297193 (Sandefjord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297193,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12089519
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bf53d5b82d444457c54f7d70de20482b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":9895051887,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051887,
+    "wof:lastmodified":1795734993,
+    "wof:name":"B\u00e6refjell",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28888,
+    59.21951,
+    10.28888,
+    59.21951
+],
+  "geometry": {"coordinates":[10.28888,59.21951],"type":"Point"}
+}

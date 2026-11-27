@@ -1,0 +1,74 @@
+{
+  "id": 9895050963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94294,58.97552,9.94294,58.97552",
+    "geom:latitude":58.97552,
+    "geom:longitude":9.94294,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11844851: name \"Brunvall\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11844851"
+        },
+        {
+            "citation":"GeoNames populated place 11844851: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11844851"
+        },
+        {
+            "citation":"GeoNames populated place 11844851: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11844851"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296779 (Larvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296779,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11844851
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d6255e3739f57492d6447e8af68d885d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":9895050963,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895050963,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Brunvall",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94294,
+    58.97552,
+    9.94294,
+    58.97552
+],
+  "geometry": {"coordinates":[9.94294,58.97552],"type":"Point"}
+}

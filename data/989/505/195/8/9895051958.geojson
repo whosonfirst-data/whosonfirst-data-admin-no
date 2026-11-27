@@ -1,0 +1,74 @@
+{
+  "id": 9895051958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40319,59.26956,10.40319,59.26956",
+    "geom:latitude":59.26956,
+    "geom:longitude":10.40319,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176296: name \"Slottsfjellet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176296"
+        },
+        {
+            "citation":"GeoNames populated place 12176296: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176296"
+        },
+        {
+            "citation":"GeoNames populated place 12176296: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176296"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971073 (T\u00f8nsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971073,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176296
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e9161bc2100aa7469e4019b4d2515a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "locality_id":9895051958,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051958,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Slottsfjellet",
+    "wof:parent_id":1527971073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40319,
+    59.26956,
+    10.40319,
+    59.26956
+],
+  "geometry": {"coordinates":[10.40319,59.26956],"type":"Point"}
+}

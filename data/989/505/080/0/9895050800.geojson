@@ -1,0 +1,74 @@
+{
+  "id": 9895050800,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.86411,59.82261,10.86411,59.82261",
+    "geom:latitude":59.82261,
+    "geom:longitude":10.86411,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11781830: name \"Kullebunn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11781830"
+        },
+        {
+            "citation":"GeoNames populated place 11781830: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11781830"
+        },
+        {
+            "citation":"GeoNames populated place 11781830: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11781830"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11781830
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bdd820d10e89ca4bf0aa30c056aae002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050800,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050800,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kullebunn",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.86411,
+    59.82261,
+    10.86411,
+    59.82261
+],
+  "geometry": {"coordinates":[10.86411,59.82261],"type":"Point"}
+}

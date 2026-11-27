@@ -1,0 +1,74 @@
+{
+  "id": 9895052120,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95198,63.49816,10.95198,63.49816",
+    "geom:latitude":63.49816,
+    "geom:longitude":10.95198,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12205123: name \"Vassbygda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12205123"
+        },
+        {
+            "citation":"GeoNames populated place 12205123: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12205123"
+        },
+        {
+            "citation":"GeoNames populated place 12205123: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12205123"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296711 (Stj\u00f8rdal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296711,
+        1495115971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12205123
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"42b9e574bba7186e7e1c95dd8174b66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":9895052120,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":9895052120,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Vassbygda",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95198,
+    63.49816,
+    10.95198,
+    63.49816
+],
+  "geometry": {"coordinates":[10.95198,63.49816],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895051004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34563,59.68811,10.34563,59.68811",
+    "geom:latitude":59.68811,
+    "geom:longitude":10.34563,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11845415: name \"Nordli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11845415"
+        },
+        {
+            "citation":"GeoNames populated place 11845415: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11845415"
+        },
+        {
+            "citation":"GeoNames populated place 11845415: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11845415"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971109 (Drammen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971109,
+        9895008352
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11845415
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cd2ef9cd8c0c30f30d21a5f75f631b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971109,
+            "locality_id":9895051004,
+            "region_id":9895008352
+        }
+    ],
+    "wof:id":9895051004,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Nordli",
+    "wof:parent_id":1527971109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34563,
+    59.68811,
+    10.34563,
+    59.68811
+],
+  "geometry": {"coordinates":[10.34563,59.68811],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72746,67.60418,15.72746,67.60418",
+    "geom:latitude":67.60418,
+    "geom:longitude":15.72746,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3160719: name \"Bon\u00e5\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3160719"
+        },
+        {
+            "citation":"GeoNames populated place 3160719: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3160719"
+        },
+        {
+            "citation":"GeoNames populated place 3160719: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3160719"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296959 (S\u00f8rfold), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687135,
+        102191581,
+        1159296959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160719
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2f300cad0e3612f6fa55f031f9753c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296959,
+            "locality_id":9895050626,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":9895050626,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Bon\u00e5",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72746,
+    67.60418,
+    15.72746,
+    67.60418
+],
+  "geometry": {"coordinates":[15.72746,67.60418],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895051774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36185,59.18436,10.36185,59.18436",
+    "geom:latitude":59.18436,
+    "geom:longitude":10.36185,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12080345: name \"Storebukt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12080345"
+        },
+        {
+            "citation":"GeoNames populated place 12080345: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12080345"
+        },
+        {
+            "citation":"GeoNames populated place 12080345: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12080345"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297071 (F\u00e6rder), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297071,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12080345
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5ede3e669c80d8443e6405036bca4bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":9895051774,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051774,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Storebukt",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36185,
+    59.18436,
+    10.36185,
+    59.18436
+],
+  "geometry": {"coordinates":[10.36185,59.18436],"type":"Point"}
+}

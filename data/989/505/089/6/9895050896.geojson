@@ -1,0 +1,74 @@
+{
+  "id": 9895050896,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77247,59.92896,10.77247,59.92896",
+    "geom:latitude":59.92896,
+    "geom:longitude":10.77247,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11844416: name \"Rodel\u00f8kka Kolonihager\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11844416"
+        },
+        {
+            "citation":"GeoNames populated place 11844416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11844416"
+        },
+        {
+            "citation":"GeoNames populated place 11844416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11844416"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11844416
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e586aa9802b713143646aee231dd586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050896,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050896,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Rodel\u00f8kka Kolonihager",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77247,
+    59.92896,
+    10.77247,
+    59.92896
+],
+  "geometry": {"coordinates":[10.77247,59.92896],"type":"Point"}
+}

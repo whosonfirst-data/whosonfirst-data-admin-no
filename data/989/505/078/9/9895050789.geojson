@@ -1,0 +1,74 @@
+{
+  "id": 9895050789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8794,60.19505,11.8794,60.19505",
+    "geom:latitude":60.19505,
+    "geom:longitude":11.8794,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11776685: name \"Galterud\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11776685"
+        },
+        {
+            "citation":"GeoNames populated place 11776685: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11776685"
+        },
+        {
+            "citation":"GeoNames populated place 11776685: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11776685"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296729 (S\u00f8r-Odal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296729,
+        1527947263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11776685
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"089f195de949c114bd2a5e0f17796db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296729,
+            "locality_id":9895050789,
+            "region_id":1527947263
+        }
+    ],
+    "wof:id":9895050789,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Galterud",
+    "wof:parent_id":1159296729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8794,
+    60.19505,
+    11.8794,
+    60.19505
+],
+  "geometry": {"coordinates":[11.8794,60.19505],"type":"Point"}
+}

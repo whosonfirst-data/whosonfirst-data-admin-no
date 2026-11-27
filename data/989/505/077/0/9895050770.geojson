@@ -1,0 +1,74 @@
+{
+  "id": 9895050770,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23563,59.49064,8.23563,59.49064",
+    "geom:latitude":59.49064,
+    "geom:longitude":8.23563,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746989: name \"H\u00f8ydalsmo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746989"
+        },
+        {
+            "citation":"GeoNames populated place 11746989: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746989"
+        },
+        {
+            "citation":"GeoNames populated place 11746989: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746989"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971071 (Tokke), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971071,
+        9895008354
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746989
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5ddb062b54034c17398310f29849c005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971071,
+            "locality_id":9895050770,
+            "region_id":9895008354
+        }
+    ],
+    "wof:id":9895050770,
+    "wof:lastmodified":1795734993,
+    "wof:name":"H\u00f8ydalsmo",
+    "wof:parent_id":1527971071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23563,
+    59.49064,
+    8.23563,
+    59.49064
+],
+  "geometry": {"coordinates":[8.23563,59.49064],"type":"Point"}
+}

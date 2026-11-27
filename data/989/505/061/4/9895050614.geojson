@@ -1,0 +1,74 @@
+{
+  "id": 9895050614,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06169,70.50313,24.06169,70.50313",
+    "geom:latitude":70.50313,
+    "geom:longitude":24.06169,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 826346: name \"Slettelv\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/826346"
+        },
+        {
+            "citation":"GeoNames populated place 826346: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/826346"
+        },
+        {
+            "citation":"GeoNames populated place 826346: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/826346"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971095 (Hammerfest), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971095,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":826346
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3ed6660b61e18701ffe4feaef249d25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971095,
+            "locality_id":9895050614,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895050614,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Slettelv",
+    "wof:parent_id":1527971095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06169,
+    70.50313,
+    24.06169,
+    70.50313
+],
+  "geometry": {"coordinates":[24.06169,70.50313],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66169,68.66835,17.66169,68.66835",
+    "geom:latitude":68.66835,
+    "geom:longitude":17.66169,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3158306: name \"Elvenes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3158306"
+        },
+        {
+            "citation":"GeoNames populated place 3158306: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3158306"
+        },
+        {
+            "citation":"GeoNames populated place 3158306: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3158306"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297453 (Gratangen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297453,
+        9895008355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158306
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b08ef61715f771f80dac2d3dedfec348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297453,
+            "locality_id":9895050624,
+            "region_id":9895008355
+        }
+    ],
+    "wof:id":9895050624,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Elvenes",
+    "wof:parent_id":1159297453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66169,
+    68.66835,
+    17.66169,
+    68.66835
+],
+  "geometry": {"coordinates":[17.66169,68.66835],"type":"Point"}
+}

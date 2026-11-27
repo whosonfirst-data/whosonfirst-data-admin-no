@@ -1,0 +1,74 @@
+{
+  "id": 9895051991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38659,59.25876,10.38659,59.25876",
+    "geom:latitude":59.25876,
+    "geom:longitude":10.38659,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176544: name \"Ramberg\u00e5sen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176544"
+        },
+        {
+            "citation":"GeoNames populated place 12176544: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176544"
+        },
+        {
+            "citation":"GeoNames populated place 12176544: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176544"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297071 (F\u00e6rder), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297071,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176544
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dd44a61e1d071f8101444ffc0cab2efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":9895051991,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051991,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Ramberg\u00e5sen",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38659,
+    59.25876,
+    10.38659,
+    59.25876
+],
+  "geometry": {"coordinates":[10.38659,59.25876],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050684,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.54853,60.00539,10.54853,60.00539",
+    "geom:latitude":60.00539,
+    "geom:longitude":10.54853,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11693785: name \"Enerhytta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11693785"
+        },
+        {
+            "citation":"GeoNames populated place 11693785: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11693785"
+        },
+        {
+            "citation":"GeoNames populated place 11693785: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11693785"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11693785
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"483ddaa610ca86d55b576cb009f7e1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050684,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050684,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Enerhytta",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.54853,
+    60.00539,
+    10.54853,
+    60.00539
+],
+  "geometry": {"coordinates":[10.54853,60.00539],"type":"Point"}
+}

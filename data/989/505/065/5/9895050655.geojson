@@ -1,0 +1,74 @@
+{
+  "id": 9895050655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42268,59.82278,10.42268,59.82278",
+    "geom:latitude":59.82278,
+    "geom:longitude":10.42268,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 9495214: name \"B\u00f8rgen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/9495214"
+        },
+        {
+            "citation":"GeoNames populated place 9495214: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/9495214"
+        },
+        {
+            "citation":"GeoNames populated place 9495214: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/9495214"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971021 (Asker), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971021,
+        9895008351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9495214
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9a82799d854ded75592271ea1964f814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971021,
+            "locality_id":9895050655,
+            "region_id":9895008351
+        }
+    ],
+    "wof:id":9895050655,
+    "wof:lastmodified":1795734993,
+    "wof:name":"B\u00f8rgen",
+    "wof:parent_id":1527971021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42268,
+    59.82278,
+    10.42268,
+    59.82278
+],
+  "geometry": {"coordinates":[10.42268,59.82278],"type":"Point"}
+}

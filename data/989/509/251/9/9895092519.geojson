@@ -1,0 +1,72 @@
+{
+  "id": 9895092519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31803,59.13267,10.31803,59.13267",
+    "geom:latitude":59.13267,
+    "geom:longitude":10.31803,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12078487: name \"Galten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12078487"
+        },
+        {
+            "citation":"GeoNames populated place 12078487: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12078487"
+        },
+        {
+            "citation":"GeoNames populated place 12078487: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12078487"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008353 (Vestfold), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12078487
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"69223a2d15de05c60c8955421cd4aaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "locality_id":9895092519,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895092519,
+    "wof:lastmodified":1795746161,
+    "wof:name":"Galten",
+    "wof:parent_id":9895008353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31803,
+    59.13267,
+    10.31803,
+    59.13267
+],
+  "geometry": {"coordinates":[10.31803,59.13267],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91627,58.98128,9.91627,58.98128",
+    "geom:latitude":58.98128,
+    "geom:longitude":9.91627,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11845398: name \"Gusland Store\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11845398"
+        },
+        {
+            "citation":"GeoNames populated place 11845398: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11845398"
+        },
+        {
+            "citation":"GeoNames populated place 11845398: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11845398"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296779 (Larvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296779,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11845398
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eaf82650bdb3ce891432616a0edc55f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":9895050997,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895050997,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Gusland Store",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91627,
+    58.98128,
+    9.91627,
+    58.98128
+],
+  "geometry": {"coordinates":[9.91627,58.98128],"type":"Point"}
+}

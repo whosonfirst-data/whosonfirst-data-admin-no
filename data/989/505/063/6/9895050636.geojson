@@ -1,0 +1,74 @@
+{
+  "id": 9895050636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34225,59.21359,10.34225,59.21359",
+    "geom:latitude":59.21359,
+    "geom:longitude":10.34225,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3229551: name \"Solnes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3229551"
+        },
+        {
+            "citation":"GeoNames populated place 3229551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3229551"
+        },
+        {
+            "citation":"GeoNames populated place 3229551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3229551"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297193 (Sandefjord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297193,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3229551
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f20e1ddf9ecb19f15f850058b3169611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":9895050636,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895050636,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Solnes",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34225,
+    59.21359,
+    10.34225,
+    59.21359
+],
+  "geometry": {"coordinates":[10.34225,59.21359],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895051949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30879,59.21978,10.30879,59.21978",
+    "geom:latitude":59.21978,
+    "geom:longitude":10.30879,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176262: name \"Sole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176262"
+        },
+        {
+            "citation":"GeoNames populated place 12176262: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176262"
+        },
+        {
+            "citation":"GeoNames populated place 12176262: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176262"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297193 (Sandefjord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297193,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176262
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e314ad8e4ba4dc1f0b55ed76b72e6291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":9895051949,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051949,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Sole",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30879,
+    59.21978,
+    10.30879,
+    59.21978
+],
+  "geometry": {"coordinates":[10.30879,59.21978],"type":"Point"}
+}

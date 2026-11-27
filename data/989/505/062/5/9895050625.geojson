@@ -1,0 +1,74 @@
+{
+  "id": 9895050625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10787,68.48277,17.10787,68.48277",
+    "geom:latitude":68.48277,
+    "geom:longitude":17.10787,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3160526: name \"Botn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3160526"
+        },
+        {
+            "citation":"GeoNames populated place 3160526: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3160526"
+        },
+        {
+            "citation":"GeoNames populated place 3160526: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3160526"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296951 (Evenes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687135,
+        102191581,
+        1159296951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160526
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"55a80997e04b4d4f9f037115dda27c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296951,
+            "locality_id":9895050625,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":9895050625,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Botn",
+    "wof:parent_id":1159296951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10787,
+    68.48277,
+    17.10787,
+    68.48277
+],
+  "geometry": {"coordinates":[17.10787,68.48277],"type":"Point"}
+}

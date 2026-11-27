@@ -1,0 +1,74 @@
+{
+  "id": 9895050601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96986,70.0685,29.96986,70.0685",
+    "geom:latitude":70.0685,
+    "geom:longitude":29.96986,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 777412: name \"Store Salttjern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/777412"
+        },
+        {
+            "citation":"GeoNames populated place 777412: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/777412"
+        },
+        {
+            "citation":"GeoNames populated place 777412: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/777412"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297387 (Vads\u00f8), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297387,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777412
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"46e8e93e9341a274b24e644bbfc3c6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297387,
+            "locality_id":9895050601,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895050601,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Store Salttjern",
+    "wof:parent_id":1159297387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96986,
+    70.0685,
+    29.96986,
+    70.0685
+],
+  "geometry": {"coordinates":[29.96986,70.0685],"type":"Point"}
+}

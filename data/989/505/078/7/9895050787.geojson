@@ -1,0 +1,74 @@
+{
+  "id": 9895050787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.22837,63.06902,8.22837,63.06902",
+    "geom:latitude":63.06902,
+    "geom:longitude":8.22837,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748733: name \"Halsanaustan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748733"
+        },
+        {
+            "citation":"GeoNames populated place 11748733: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748733"
+        },
+        {
+            "citation":"GeoNames populated place 11748733: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748733"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971127 (Heim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1495115971,
+        1527971127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748733
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb752de4b3831ed5e45543d4c3472156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971127,
+            "locality_id":9895050787,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":9895050787,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Halsanaustan",
+    "wof:parent_id":1527971127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.22837,
+    63.06902,
+    8.22837,
+    63.06902
+],
+  "geometry": {"coordinates":[8.22837,63.06902],"type":"Point"}
+}

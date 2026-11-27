@@ -1,0 +1,74 @@
+{
+  "id": 9895051002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32859,59.69081,10.32859,59.69081",
+    "geom:latitude":59.69081,
+    "geom:longitude":10.32859,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11845410: name \"T\u00f8rkopp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11845410"
+        },
+        {
+            "citation":"GeoNames populated place 11845410: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11845410"
+        },
+        {
+            "citation":"GeoNames populated place 11845410: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11845410"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971109 (Drammen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971109,
+        9895008352
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11845410
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7176b675371dceed157cdca067fc0eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971109,
+            "locality_id":9895051002,
+            "region_id":9895008352
+        }
+    ],
+    "wof:id":9895051002,
+    "wof:lastmodified":1795734993,
+    "wof:name":"T\u00f8rkopp",
+    "wof:parent_id":1527971109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32859,
+    59.69081,
+    10.32859,
+    59.69081
+],
+  "geometry": {"coordinates":[10.32859,59.69081],"type":"Point"}
+}

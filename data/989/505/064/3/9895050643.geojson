@@ -1,0 +1,74 @@
+{
+  "id": 9895050643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50357,69.04616,18.50357,69.04616",
+    "geom:latitude":69.04616,
+    "geom:longitude":18.50357,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6545377: name \"Heggelia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6545377"
+        },
+        {
+            "citation":"GeoNames populated place 6545377: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6545377"
+        },
+        {
+            "citation":"GeoNames populated place 6545377: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6545377"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296775 (M\u00e5lselv), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296775,
+        9895008355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545377
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"481951d36101ce3e0a3904818e0bbbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":9895050643,
+            "region_id":9895008355
+        }
+    ],
+    "wof:id":9895050643,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Heggelia",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50357,
+    69.04616,
+    18.50357,
+    69.04616
+],
+  "geometry": {"coordinates":[18.50357,69.04616],"type":"Point"}
+}

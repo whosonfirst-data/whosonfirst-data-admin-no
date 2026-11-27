@@ -1,0 +1,74 @@
+{
+  "id": 9895051306,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02463,60.6407,11.02463,60.6407",
+    "geom:latitude":60.6407,
+    "geom:longitude":11.02463,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11906229: name \"Lykkjeskauen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11906229"
+        },
+        {
+            "citation":"GeoNames populated place 11906229: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11906229"
+        },
+        {
+            "citation":"GeoNames populated place 11906229: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11906229"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296841 (\u00d8stre Toten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296841,
+        1527947263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11906229
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bca01acbc6bd500f425e6230ee6b2060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296841,
+            "locality_id":9895051306,
+            "region_id":1527947263
+        }
+    ],
+    "wof:id":9895051306,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Lykkjeskauen",
+    "wof:parent_id":1159296841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02463,
+    60.6407,
+    11.02463,
+    60.6407
+],
+  "geometry": {"coordinates":[11.02463,60.6407],"type":"Point"}
+}

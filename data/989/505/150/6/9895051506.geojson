@@ -1,0 +1,75 @@
+{
+  "id": 9895051506,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55932,69.4362,19.55932,69.4362",
+    "geom:latitude":69.4362,
+    "geom:longitude":19.55932,
+    "gn:population":20,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12076635: name \"Stordalstrand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12076635"
+        },
+        {
+            "citation":"GeoNames populated place 12076635: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12076635"
+        },
+        {
+            "citation":"GeoNames populated place 12076635: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12076635"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297187 (Troms\u00f8), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297187,
+        9895008355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12076635
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d57695253f5bbf9266bff3a049a4092d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":9895051506,
+            "region_id":9895008355
+        }
+    ],
+    "wof:id":9895051506,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Stordalstrand",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55932,
+    69.4362,
+    19.55932,
+    69.4362
+],
+  "geometry": {"coordinates":[19.55932,69.4362],"type":"Point"}
+}

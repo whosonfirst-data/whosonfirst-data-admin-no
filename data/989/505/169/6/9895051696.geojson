@@ -1,0 +1,74 @@
+{
+  "id": 9895051696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48143,59.26148,10.48143,59.26148",
+    "geom:latitude":59.26148,
+    "geom:longitude":10.48143,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12078165: name \"Bogen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12078165"
+        },
+        {
+            "citation":"GeoNames populated place 12078165: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12078165"
+        },
+        {
+            "citation":"GeoNames populated place 12078165: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12078165"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971073 (T\u00f8nsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971073,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12078165
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"89c184e1332bee54d4152c7d4b44d968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "locality_id":9895051696,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051696,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Bogen",
+    "wof:parent_id":1527971073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48143,
+    59.26148,
+    10.48143,
+    59.26148
+],
+  "geometry": {"coordinates":[10.48143,59.26148],"type":"Point"}
+}

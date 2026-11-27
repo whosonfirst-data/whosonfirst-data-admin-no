@@ -1,0 +1,74 @@
+{
+  "id": 9895051925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15452,69.21421,29.15452,69.21421",
+    "geom:latitude":69.21421,
+    "geom:longitude":29.15452,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176115: name \"Vaggatem\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176115"
+        },
+        {
+            "citation":"GeoNames populated place 12176115: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176115"
+        },
+        {
+            "citation":"GeoNames populated place 12176115: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176115"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296947 (S\u00f8r-Varanger), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296947,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176115
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6fee5ec7470ebd74e2187c400a739088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":9895051925,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895051925,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Vaggatem",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15452,
+    69.21421,
+    29.15452,
+    69.21421
+],
+  "geometry": {"coordinates":[29.15452,69.21421],"type":"Point"}
+}

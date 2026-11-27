@@ -1,0 +1,74 @@
+{
+  "id": 9895051923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51168,58.21242,7.51168,58.21242",
+    "geom:latitude":58.21242,
+    "geom:longitude":7.51168,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12167214: name \"Marnardal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12167214"
+        },
+        {
+            "citation":"GeoNames populated place 12167214: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12167214"
+        },
+        {
+            "citation":"GeoNames populated place 12167214: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12167214"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971065 (Lindesnes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527947265,
+        1527971065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12167214
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6a8af07302874318b56c17957df4243f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971065,
+            "locality_id":9895051923,
+            "region_id":1527947265
+        }
+    ],
+    "wof:id":9895051923,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Marnardal",
+    "wof:parent_id":1527971065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51168,
+    58.21242,
+    7.51168,
+    58.21242
+],
+  "geometry": {"coordinates":[7.51168,58.21242],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050768,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02638,60.6795,12.02638,60.6795",
+    "geom:latitude":60.6795,
+    "geom:longitude":12.02638,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746987: name \"Gjes\u00e5sen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746987"
+        },
+        {
+            "citation":"GeoNames populated place 11746987: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746987"
+        },
+        {
+            "citation":"GeoNames populated place 11746987: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746987"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297037 (\u00c5snes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297037,
+        1527947263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746987
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb0201430f6ba64ce11f4e4c31ad6604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297037,
+            "locality_id":9895050768,
+            "region_id":1527947263
+        }
+    ],
+    "wof:id":9895050768,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Gjes\u00e5sen",
+    "wof:parent_id":1159297037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02638,
+    60.6795,
+    12.02638,
+    60.6795
+],
+  "geometry": {"coordinates":[12.02638,60.6795],"type":"Point"}
+}

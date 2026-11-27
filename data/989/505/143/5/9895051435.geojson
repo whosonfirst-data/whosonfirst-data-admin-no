@@ -1,0 +1,74 @@
+{
+  "id": 9895051435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31169,59.48053,10.31169,59.48053",
+    "geom:latitude":59.48053,
+    "geom:longitude":10.31169,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11998751: name \"Kleivbrottet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11998751"
+        },
+        {
+            "citation":"GeoNames populated place 11998751: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11998751"
+        },
+        {
+            "citation":"GeoNames populated place 11998751: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11998751"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971075 (Holmestrand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971075,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11998751
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6088e6f3e1cfded3ec3973523c763b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971075,
+            "locality_id":9895051435,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051435,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kleivbrottet",
+    "wof:parent_id":1527971075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31169,
+    59.48053,
+    10.31169,
+    59.48053
+],
+  "geometry": {"coordinates":[10.31169,59.48053],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895051365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36502,59.42311,10.36502,59.42311",
+    "geom:latitude":59.42311,
+    "geom:longitude":10.36502,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11997379: name \"Kopstad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11997379"
+        },
+        {
+            "citation":"GeoNames populated place 11997379: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11997379"
+        },
+        {
+            "citation":"GeoNames populated place 11997379: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11997379"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971077 (Horten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971077,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11997379
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2d2ba4b1b709e8002dad762d08b61e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971077,
+            "locality_id":9895051365,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051365,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kopstad",
+    "wof:parent_id":1527971077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36502,
+    59.42311,
+    10.36502,
+    59.42311
+],
+  "geometry": {"coordinates":[10.36502,59.42311],"type":"Point"}
+}

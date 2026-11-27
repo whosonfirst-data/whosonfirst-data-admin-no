@@ -1,0 +1,74 @@
+{
+  "id": 9895052103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44303,59.26311,10.44303,59.26311",
+    "geom:latitude":59.26311,
+    "geom:longitude":10.44303,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177322: name \"Elverh\u00f8y\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177322"
+        },
+        {
+            "citation":"GeoNames populated place 12177322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177322"
+        },
+        {
+            "citation":"GeoNames populated place 12177322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177322"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971073 (T\u00f8nsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971073,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177322
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"287dc144007166bfcc4e720b7be17b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "locality_id":9895052103,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895052103,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Elverh\u00f8y",
+    "wof:parent_id":1527971073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44303,
+    59.26311,
+    10.44303,
+    59.26311
+],
+  "geometry": {"coordinates":[10.44303,59.26311],"type":"Point"}
+}

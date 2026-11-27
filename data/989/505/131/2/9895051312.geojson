@@ -1,0 +1,74 @@
+{
+  "id": 9895051312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19277,59.58572,10.19277,59.58572",
+    "geom:latitude":59.58572,
+    "geom:longitude":10.19277,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11909018: name \"Valle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11909018"
+        },
+        {
+            "citation":"GeoNames populated place 11909018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11909018"
+        },
+        {
+            "citation":"GeoNames populated place 11909018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11909018"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971075 (Holmestrand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971075,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11909018
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ee7598f3d547752323e8b80fc31d9df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971075,
+            "locality_id":9895051312,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051312,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Valle",
+    "wof:parent_id":1527971075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19277,
+    59.58572,
+    10.19277,
+    59.58572
+],
+  "geometry": {"coordinates":[10.19277,59.58572],"type":"Point"}
+}

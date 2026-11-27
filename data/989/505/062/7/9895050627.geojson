@@ -1,0 +1,74 @@
+{
+  "id": 9895050627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80429,68.81756,14.80429,68.81756",
+    "geom:latitude":68.81756,
+    "geom:longitude":14.80429,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3162028: name \"Barkestad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3162028"
+        },
+        {
+            "citation":"GeoNames populated place 3162028: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3162028"
+        },
+        {
+            "citation":"GeoNames populated place 3162028: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3162028"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296769 (\u00d8ksnes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687135,
+        102191581,
+        1159296769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162028
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5f30ca42df160a5a695375ae6bea5778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296769,
+            "locality_id":9895050627,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":9895050627,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Barkestad",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80429,
+    68.81756,
+    14.80429,
+    68.81756
+],
+  "geometry": {"coordinates":[14.80429,68.81756],"type":"Point"}
+}

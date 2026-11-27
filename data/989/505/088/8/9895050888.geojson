@@ -1,0 +1,74 @@
+{
+  "id": 9895050888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77966,60.02103,10.77966,60.02103",
+    "geom:latitude":60.02103,
+    "geom:longitude":10.77966,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11844398: name \"Skari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11844398"
+        },
+        {
+            "citation":"GeoNames populated place 11844398: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11844398"
+        },
+        {
+            "citation":"GeoNames populated place 11844398: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11844398"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11844398
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"41f231bc64635e6621222c96e1c79793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050888,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050888,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Skari",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77966,
+    60.02103,
+    10.77966,
+    60.02103
+],
+  "geometry": {"coordinates":[10.77966,60.02103],"type":"Point"}
+}

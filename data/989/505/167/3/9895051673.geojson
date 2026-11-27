@@ -1,0 +1,74 @@
+{
+  "id": 9895051673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30102,59.08301,10.30102,59.08301",
+    "geom:latitude":59.08301,
+    "geom:longitude":10.30102,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12078100: name \"Eiane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12078100"
+        },
+        {
+            "citation":"GeoNames populated place 12078100: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12078100"
+        },
+        {
+            "citation":"GeoNames populated place 12078100: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12078100"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297193 (Sandefjord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297193,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12078100
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4c5c7b716a895089bd523a8b201048a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":9895051673,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051673,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Eiane",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30102,
+    59.08301,
+    10.30102,
+    59.08301
+],
+  "geometry": {"coordinates":[10.30102,59.08301],"type":"Point"}
+}

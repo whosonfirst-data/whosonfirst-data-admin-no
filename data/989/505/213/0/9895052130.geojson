@@ -1,0 +1,74 @@
+{
+  "id": 9895052130,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.64288,69.96774,29.64288,69.96774",
+    "geom:latitude":69.96774,
+    "geom:longitude":29.64288,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527289: name \"Pipola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527289"
+        },
+        {
+            "citation":"GeoNames populated place 13527289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527289"
+        },
+        {
+            "citation":"GeoNames populated place 13527289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527289"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296947 (S\u00f8r-Varanger), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296947,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527289
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6613644196870d7aface6cfe95034feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":9895052130,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895052130,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Pipola",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.64288,
+    69.96774,
+    29.64288,
+    69.96774
+],
+  "geometry": {"coordinates":[29.64288,69.96774],"type":"Point"}
+}

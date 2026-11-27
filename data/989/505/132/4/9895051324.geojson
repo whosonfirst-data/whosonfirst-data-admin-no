@@ -1,0 +1,74 @@
+{
+  "id": 9895051324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.02252,59.85464,9.02252,59.85464",
+    "geom:latitude":59.85464,
+    "geom:longitude":9.02252,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919655: name \"Hovin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919655"
+        },
+        {
+            "citation":"GeoNames populated place 11919655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919655"
+        },
+        {
+            "citation":"GeoNames populated place 11919655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919655"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297269 (Tinn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297269,
+        9895008354
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919655
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"df8fce028bc5ab71f4112f55cc64b0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297269,
+            "locality_id":9895051324,
+            "region_id":9895008354
+        }
+    ],
+    "wof:id":9895051324,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Hovin",
+    "wof:parent_id":1159297269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.02252,
+    59.85464,
+    9.02252,
+    59.85464
+],
+  "geometry": {"coordinates":[9.02252,59.85464],"type":"Point"}
+}

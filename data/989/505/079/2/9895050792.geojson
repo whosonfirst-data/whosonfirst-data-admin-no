@@ -1,0 +1,74 @@
+{
+  "id": 9895050792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50687,69.07356,16.50687,69.07356",
+    "geom:latitude":69.07356,
+    "geom:longitude":16.50687,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11776688: name \"Mel\u00f8yv\u00e6r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11776688"
+        },
+        {
+            "citation":"GeoNames populated place 11776688: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11776688"
+        },
+        {
+            "citation":"GeoNames populated place 11776688: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11776688"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297451 (Harstad), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297451,
+        9895008355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11776688
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6a66623bb45e097fc56e2c05b439d13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":9895050792,
+            "region_id":9895008355
+        }
+    ],
+    "wof:id":9895050792,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Mel\u00f8yv\u00e6r",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50687,
+    69.07356,
+    16.50687,
+    69.07356
+],
+  "geometry": {"coordinates":[16.50687,69.07356],"type":"Point"}
+}

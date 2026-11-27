@@ -1,0 +1,74 @@
+{
+  "id": 9895050772,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4036,59.6307,8.4036,59.6307",
+    "geom:latitude":59.6307,
+    "geom:longitude":8.4036,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747273: name \"\u00c5motsdal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747273"
+        },
+        {
+            "citation":"GeoNames populated place 11747273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747273"
+        },
+        {
+            "citation":"GeoNames populated place 11747273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747273"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296965 (Seljord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296965,
+        9895008354
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747273
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"94f8ca0f9e4fb51a2ddba5223231df2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296965,
+            "locality_id":9895050772,
+            "region_id":9895008354
+        }
+    ],
+    "wof:id":9895050772,
+    "wof:lastmodified":1795734993,
+    "wof:name":"\u00c5motsdal",
+    "wof:parent_id":1159296965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4036,
+    59.6307,
+    8.4036,
+    59.6307
+],
+  "geometry": {"coordinates":[8.4036,59.6307],"type":"Point"}
+}

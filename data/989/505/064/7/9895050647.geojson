@@ -1,0 +1,74 @@
+{
+  "id": 9895050647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.72618,58.77067,5.72618,58.77067",
+    "geom:latitude":58.77067,
+    "geom:longitude":5.72618,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 9403958: name \"Kvernaland\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/9403958"
+        },
+        {
+            "citation":"GeoNames populated place 9403958: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/9403958"
+        },
+        {
+            "citation":"GeoNames populated place 9403958: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/9403958"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296707 (Time), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687085,
+        102191581,
+        1159296707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403958
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5434d944e3c8aebd18e07a0870f2c36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296707,
+            "locality_id":9895050647,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":9895050647,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kvernaland",
+    "wof:parent_id":1159296707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.72618,
+    58.77067,
+    5.72618,
+    58.77067
+],
+  "geometry": {"coordinates":[5.72618,58.77067],"type":"Point"}
+}

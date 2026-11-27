@@ -1,0 +1,74 @@
+{
+  "id": 9895050737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69553,58.09724,6.69553,58.09724",
+    "geom:latitude":58.09724,
+    "geom:longitude":6.69553,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695334: name \"Bryne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695334"
+        },
+        {
+            "citation":"GeoNames populated place 11695334: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695334"
+        },
+        {
+            "citation":"GeoNames populated place 11695334: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695334"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297123 (Farsund), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297123,
+        1527947265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695334
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"17ceb5a606e18b185e14f41597ccea19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":9895050737,
+            "region_id":1527947265
+        }
+    ],
+    "wof:id":9895050737,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Bryne",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69553,
+    58.09724,
+    6.69553,
+    58.09724
+],
+  "geometry": {"coordinates":[6.69553,58.09724],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83776,60.80583,10.83776,60.80583",
+    "geom:latitude":60.80583,
+    "geom:longitude":10.83776,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747272: name \"Stavsj\u00f8\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747272"
+        },
+        {
+            "citation":"GeoNames populated place 11747272: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747272"
+        },
+        {
+            "citation":"GeoNames populated place 11747272: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747272"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296699 (Ringsaker), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296699,
+        1527947263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747272
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"849e1caeaa80810202980381da7cb8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":9895050771,
+            "region_id":1527947263
+        }
+    ],
+    "wof:id":9895050771,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Stavsj\u00f8",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83776,
+    60.80583,
+    10.83776,
+    60.80583
+],
+  "geometry": {"coordinates":[10.83776,60.80583],"type":"Point"}
+}

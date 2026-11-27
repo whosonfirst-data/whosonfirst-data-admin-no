@@ -1,0 +1,74 @@
+{
+  "id": 9895050760,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98307,59.94457,10.98307,59.94457",
+    "geom:latitude":59.94457,
+    "geom:longitude":10.98307,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11745964: name \"Fjellhamar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11745964"
+        },
+        {
+            "citation":"GeoNames populated place 11745964: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11745964"
+        },
+        {
+            "citation":"GeoNames populated place 11745964: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11745964"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296815 (L\u00f8renskog), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296815,
+        9895008351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11745964
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"317ce1643749e60f42d145ebfcb921ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296815,
+            "locality_id":9895050760,
+            "region_id":9895008351
+        }
+    ],
+    "wof:id":9895050760,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Fjellhamar",
+    "wof:parent_id":1159296815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98307,
+    59.94457,
+    10.98307,
+    59.94457
+],
+  "geometry": {"coordinates":[10.98307,59.94457],"type":"Point"}
+}

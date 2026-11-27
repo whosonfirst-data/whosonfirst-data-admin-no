@@ -1,0 +1,74 @@
+{
+  "id": 9895051758,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34471,59.16318,10.34471,59.16318",
+    "geom:latitude":59.16318,
+    "geom:longitude":10.34471,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12080276: name \"Vestg\u00e5rden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12080276"
+        },
+        {
+            "citation":"GeoNames populated place 12080276: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12080276"
+        },
+        {
+            "citation":"GeoNames populated place 12080276: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12080276"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297071 (F\u00e6rder), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297071,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12080276
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"42ab6ad559e70dc05d85dc51e1b1869e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":9895051758,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051758,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Vestg\u00e5rden",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34471,
+    59.16318,
+    10.34471,
+    59.16318
+],
+  "geometry": {"coordinates":[10.34471,59.16318],"type":"Point"}
+}

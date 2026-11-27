@@ -1,0 +1,74 @@
+{
+  "id": 9895050826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83665,59.89909,10.83665,59.89909",
+    "geom:latitude":59.89909,
+    "geom:longitude":10.83665,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11817657: name \"Sk\u00f8yen\u00e5sen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11817657"
+        },
+        {
+            "citation":"GeoNames populated place 11817657: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11817657"
+        },
+        {
+            "citation":"GeoNames populated place 11817657: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11817657"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11817657
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2a6e97d8c4cda94d20ea7c30f85bb269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050826,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050826,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Sk\u00f8yen\u00e5sen",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83665,
+    59.89909,
+    10.83665,
+    59.89909
+],
+  "geometry": {"coordinates":[10.83665,59.89909],"type":"Point"}
+}

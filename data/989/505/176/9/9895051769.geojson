@@ -1,0 +1,74 @@
+{
+  "id": 9895051769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34557,59.15314,10.34557,59.15314",
+    "geom:latitude":59.15314,
+    "geom:longitude":10.34557,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12080321: name \"Thorsl\u00f8kka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12080321"
+        },
+        {
+            "citation":"GeoNames populated place 12080321: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12080321"
+        },
+        {
+            "citation":"GeoNames populated place 12080321: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12080321"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297071 (F\u00e6rder), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297071,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12080321
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"680f72f9374d6073203e87436ab9da13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":9895051769,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051769,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Thorsl\u00f8kka",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34557,
+    59.15314,
+    10.34557,
+    59.15314
+],
+  "geometry": {"coordinates":[10.34557,59.15314],"type":"Point"}
+}

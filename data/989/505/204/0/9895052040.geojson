@@ -1,0 +1,74 @@
+{
+  "id": 9895052040,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11699,59.39131,10.11699,59.39131",
+    "geom:latitude":59.39131,
+    "geom:longitude":10.11699,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176868: name \"Kjonevollen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176868"
+        },
+        {
+            "citation":"GeoNames populated place 12176868: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176868"
+        },
+        {
+            "citation":"GeoNames populated place 12176868: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176868"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971073 (T\u00f8nsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971073,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176868
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d95aad55a48f0433cdd4c0a8e641442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "locality_id":9895052040,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895052040,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Kjonevollen",
+    "wof:parent_id":1527971073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11699,
+    59.39131,
+    10.11699,
+    59.39131
+],
+  "geometry": {"coordinates":[10.11699,59.39131],"type":"Point"}
+}

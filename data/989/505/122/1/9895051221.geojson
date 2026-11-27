@@ -1,0 +1,74 @@
+{
+  "id": 9895051221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05772,59.03451,10.05772,59.03451",
+    "geom:latitude":59.03451,
+    "geom:longitude":10.05772,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11872511: name \"Steinsnes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11872511"
+        },
+        {
+            "citation":"GeoNames populated place 11872511: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11872511"
+        },
+        {
+            "citation":"GeoNames populated place 11872511: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11872511"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296779 (Larvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296779,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11872511
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"11994e45e9abf44d5783e9c6e58a41ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":9895051221,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051221,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Steinsnes",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05772,
+    59.03451,
+    10.05772,
+    59.03451
+],
+  "geometry": {"coordinates":[10.05772,59.03451],"type":"Point"}
+}

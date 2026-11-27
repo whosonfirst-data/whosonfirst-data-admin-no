@@ -1,0 +1,74 @@
+{
+  "id": 9895051632,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05045,59.06505,10.05045,59.06505",
+    "geom:latitude":59.06505,
+    "geom:longitude":10.05045,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12077894: name \"Hovland\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12077894"
+        },
+        {
+            "citation":"GeoNames populated place 12077894: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12077894"
+        },
+        {
+            "citation":"GeoNames populated place 12077894: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12077894"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296779 (Larvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296779,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12077894
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c84221659b8f6593cf5fb5faf4bf86dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":9895051632,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051632,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Hovland",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05045,
+    59.06505,
+    10.05045,
+    59.06505
+],
+  "geometry": {"coordinates":[10.05045,59.06505],"type":"Point"}
+}

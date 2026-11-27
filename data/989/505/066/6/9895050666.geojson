@@ -1,0 +1,74 @@
+{
+  "id": 9895050666,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68484,62.36102,5.68484,62.36102",
+    "geom:latitude":62.36102,
+    "geom:longitude":5.68484,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 9825211: name \"Voldsund\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/9825211"
+        },
+        {
+            "citation":"GeoNames populated place 9825211: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/9825211"
+        },
+        {
+            "citation":"GeoNames populated place 9825211: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/9825211"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297413 (Her\u00f8y), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687123,
+        102191581,
+        1159297413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9825211
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f7029cfd93cd27dc65ab44461f075f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297413,
+            "locality_id":9895050666,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":9895050666,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Voldsund",
+    "wof:parent_id":1159297413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68484,
+    62.36102,
+    5.68484,
+    62.36102
+],
+  "geometry": {"coordinates":[5.68484,62.36102],"type":"Point"}
+}

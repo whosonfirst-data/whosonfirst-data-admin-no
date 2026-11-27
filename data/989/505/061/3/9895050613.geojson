@@ -1,0 +1,74 @@
+{
+  "id": 9895050613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88091,70.42725,27.88091,70.42725",
+    "geom:latitude":70.42725,
+    "geom:longitude":27.88091,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 781007: name \"Vestertana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/781007"
+        },
+        {
+            "citation":"GeoNames populated place 781007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/781007"
+        },
+        {
+            "citation":"GeoNames populated place 781007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/781007"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296751 (Tana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296751,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781007
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0c46221ed78bcbff14d76f02d58aeb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":9895050613,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895050613,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Vestertana",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88091,
+    70.42725,
+    27.88091,
+    70.42725
+],
+  "geometry": {"coordinates":[27.88091,70.42725],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66457,59.9205,10.66457,59.9205",
+    "geom:latitude":59.9205,
+    "geom:longitude":10.66457,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11693816: name \"Bestum\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11693816"
+        },
+        {
+            "citation":"GeoNames populated place 11693816: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11693816"
+        },
+        {
+            "citation":"GeoNames populated place 11693816: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11693816"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297167 (Oslo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        85687089,
+        102191581,
+        1159297167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11693816
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7d0f1113a470a6f355063f7a5998fe88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":9895050697,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":9895050697,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Bestum",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66457,
+    59.9205,
+    10.66457,
+    59.9205
+],
+  "geometry": {"coordinates":[10.66457,59.9205],"type":"Point"}
+}

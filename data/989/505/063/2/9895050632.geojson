@@ -1,0 +1,74 @@
+{
+  "id": 9895050632,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74862,60.14703,5.74862,60.14703",
+    "geom:latitude":60.14703,
+    "geom:longitude":5.74862,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3206601: name \"Baldersheim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3206601"
+        },
+        {
+            "citation":"GeoNames populated place 3206601: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3206601"
+        },
+        {
+            "citation":"GeoNames populated place 3206601: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3206601"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971045 (Bj\u00f8rnafjorden), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527947261,
+        1527971045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206601
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"187e2d1b107ac183880ede12ffc76a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971045,
+            "locality_id":9895050632,
+            "region_id":1527947261
+        }
+    ],
+    "wof:id":9895050632,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Baldersheim",
+    "wof:parent_id":1527971045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74862,
+    60.14703,
+    5.74862,
+    60.14703
+],
+  "geometry": {"coordinates":[5.74862,60.14703],"type":"Point"}
+}

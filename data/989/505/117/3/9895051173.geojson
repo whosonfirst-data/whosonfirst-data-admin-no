@@ -1,0 +1,74 @@
+{
+  "id": 9895051173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01483,59.0221,10.01483,59.0221",
+    "geom:latitude":59.0221,
+    "geom:longitude":10.01483,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11872096: name \"Jordet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11872096"
+        },
+        {
+            "citation":"GeoNames populated place 11872096: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11872096"
+        },
+        {
+            "citation":"GeoNames populated place 11872096: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11872096"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296779 (Larvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296779,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11872096
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e454bec3ca19e2077653743539ef92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":9895051173,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051173,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Jordet",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01483,
+    59.0221,
+    10.01483,
+    59.0221
+],
+  "geometry": {"coordinates":[10.01483,59.0221],"type":"Point"}
+}

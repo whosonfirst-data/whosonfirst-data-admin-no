@@ -1,0 +1,74 @@
+{
+  "id": 9895050778,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65006,60.41712,11.65006,60.41712",
+    "geom:latitude":60.41712,
+    "geom:longitude":11.65006,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747865: name \"Gardvik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747865"
+        },
+        {
+            "citation":"GeoNames populated place 11747865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747865"
+        },
+        {
+            "citation":"GeoNames populated place 11747865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747865"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297485 (Nord-Odal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297485,
+        1527947263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747865
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8c83023368e496266109cdc717fa9820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297485,
+            "locality_id":9895050778,
+            "region_id":1527947263
+        }
+    ],
+    "wof:id":9895050778,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Gardvik",
+    "wof:parent_id":1159297485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65006,
+    60.41712,
+    11.65006,
+    60.41712
+],
+  "geometry": {"coordinates":[11.65006,60.41712],"type":"Point"}
+}

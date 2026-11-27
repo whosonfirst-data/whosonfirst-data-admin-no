@@ -1,0 +1,74 @@
+{
+  "id": 9895050775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.47548,60.40275,5.47548,60.40275",
+    "geom:latitude":60.40275,
+    "geom:longitude":5.47548,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747276: name \"Arnatveit\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747276"
+        },
+        {
+            "citation":"GeoNames populated place 11747276: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747276"
+        },
+        {
+            "citation":"GeoNames populated place 11747276: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747276"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297617 (Bergen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297617,
+        1527947261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747276
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b6aff40d5f6bae58c33585658c047ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":9895050775,
+            "region_id":1527947261
+        }
+    ],
+    "wof:id":9895050775,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Arnatveit",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47548,
+    60.40275,
+    5.47548,
+    60.40275
+],
+  "geometry": {"coordinates":[5.47548,60.40275],"type":"Point"}
+}

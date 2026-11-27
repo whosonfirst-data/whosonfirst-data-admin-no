@@ -1,0 +1,74 @@
+{
+  "id": 9895050773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94856,63.24907,10.94856,63.24907",
+    "geom:latitude":63.24907,
+    "geom:longitude":10.94856,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747274: name \"Selbustrand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747274"
+        },
+        {
+            "citation":"GeoNames populated place 11747274: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747274"
+        },
+        {
+            "citation":"GeoNames populated place 11747274: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747274"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159296977 (Selbu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159296977,
+        1495115971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747274
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0b59e5e798f4cd241dfaefdddd336c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296977,
+            "locality_id":9895050773,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":9895050773,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Selbustrand",
+    "wof:parent_id":1159296977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94856,
+    63.24907,
+    10.94856,
+    63.24907
+],
+  "geometry": {"coordinates":[10.94856,63.24907],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72379,59.82797,11.72379,59.82797",
+    "geom:latitude":59.82797,
+    "geom:longitude":11.72379,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748654: name \"Setskog\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748654"
+        },
+        {
+            "citation":"GeoNames populated place 11748654: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748654"
+        },
+        {
+            "citation":"GeoNames populated place 11748654: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748654"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1528041085 (Aurskog-H\u00f8land), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1528041085,
+        9895008351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748654
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0c44c150070fafb8889a007542d1f179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1528041085,
+            "locality_id":9895050784,
+            "region_id":9895008351
+        }
+    ],
+    "wof:id":9895050784,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Setskog",
+    "wof:parent_id":1528041085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72379,
+    59.82797,
+    11.72379,
+    59.82797
+],
+  "geometry": {"coordinates":[11.72379,59.82797],"type":"Point"}
+}

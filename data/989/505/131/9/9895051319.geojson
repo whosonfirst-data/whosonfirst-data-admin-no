@@ -1,0 +1,74 @@
+{
+  "id": 9895051319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21756,59.58064,10.21756,59.58064",
+    "geom:latitude":59.58064,
+    "geom:longitude":10.21756,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11909060: name \"Glypnes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11909060"
+        },
+        {
+            "citation":"GeoNames populated place 11909060: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11909060"
+        },
+        {
+            "citation":"GeoNames populated place 11909060: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11909060"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1527971075 (Holmestrand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1527971075,
+        9895008353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11909060
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e0776ab5a69e92cfe13c8b3788d69c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971075,
+            "locality_id":9895051319,
+            "region_id":9895008353
+        }
+    ],
+    "wof:id":9895051319,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Glypnes",
+    "wof:parent_id":1527971075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21756,
+    59.58064,
+    10.21756,
+    59.58064
+],
+  "geometry": {"coordinates":[10.21756,59.58064],"type":"Point"}
+}

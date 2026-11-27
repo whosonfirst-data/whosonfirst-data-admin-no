@@ -1,0 +1,74 @@
+{
+  "id": 9895050610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95941,70.81254,27.95941,70.81254",
+    "geom:latitude":70.81254,
+    "geom:longitude":27.95941,
+    "iso:country":"NO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 779463: name \"Ivarsfjord\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/779463"
+        },
+        {
+            "citation":"GeoNames populated place 779463: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/779463"
+        },
+        {
+            "citation":"GeoNames populated place 779463: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/779463"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297403 (Gamvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341,
+        102191581,
+        1159297403,
+        9895008356
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779463
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2b20ae9fbe0c9ff98bc8ba90051eebcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297403,
+            "locality_id":9895050610,
+            "region_id":9895008356
+        }
+    ],
+    "wof:id":9895050610,
+    "wof:lastmodified":1795734993,
+    "wof:name":"Ivarsfjord",
+    "wof:parent_id":1159297403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95941,
+    70.81254,
+    27.95941,
+    70.81254
+],
+  "geometry": {"coordinates":[27.95941,70.81254],"type":"Point"}
+}
